@@ -1,0 +1,20 @@
+name: Trigger Terms Build
+
+on:
+  # 当推送到main分支时触发
+  push:
+    branches: [main]
+  # 允许从GitHub Actions标签页手动运行此workflow
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          curl --location 'https://api.github.com/repos/immersive-translate/dash/dispatches' \
+          --header 'Content-Type: application/json' \
+          --header 'Authorization: Bearer ${{secrets.PERSONAL_GITHUB_TOKEN}}' \
+          --data '{
+            "event_type": "deploy-terms"
+          }' 
