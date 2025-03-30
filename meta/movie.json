@@ -1,0 +1,28 @@
+{
+  "id": "movie",
+  "name": "Movie",
+  "description": "电影术语库，包含电影类型、制作、放映等相关术语的中文翻译。",
+  "author": "immersive",
+  "glossary": "movie",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.imdb.com/*",
+    "https://www.rottentomatoes.com/*",
+    "https://www.metacritic.com/*",
+    "https://www.boxofficemojo.com/*",
+    "https://www.variety.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "电影",
+      "description": "电影术语库，包含电影类型、制作、放映等相关术语的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "電影",
+      "description": "電影術語庫，包含電影類型、製作、放映等相關術語的中文翻譯。"
+    }
+  }
+} 

@@ -1,0 +1,229 @@
+source,target,tgt_lng
+Movie,电影,zh-CN
+Film,电影,zh-CN
+Cinema,电影,zh-CN
+Motion picture,电影,zh-CN
+Feature film,故事片,zh-CN
+Short film,短片,zh-CN
+Documentary,纪录片,zh-CN
+Animation,动画片,zh-CN
+Live action,真人电影,zh-CN
+Silent film,默片,zh-CN
+Sound film,有声电影,zh-CN
+Color film,彩色电影,zh-CN
+Black and white,黑白电影,zh-CN
+3D film,3D电影,zh-CN
+IMAX,IMAX电影,zh-CN
+Director,导演,zh-CN
+Producer,制片人,zh-CN
+Screenwriter,编剧,zh-CN
+Actor,演员,zh-CN
+Actress,女演员,zh-CN
+Star,明星,zh-CN
+Lead actor,主演,zh-CN
+Supporting actor,配角,zh-CN
+Cameo,客串,zh-CN
+Extra,群众演员,zh-CN
+Stunt double,替身演员,zh-CN
+Cinematographer,摄影师,zh-CN
+Editor,剪辑师,zh-CN
+Sound designer,音效设计师,zh-CN
+Composer,配乐师,zh-CN
+Art director,美术指导,zh-CN
+Costume designer,服装设计师,zh-CN
+Makeup artist,化妆师,zh-CN
+Set designer,布景设计师,zh-CN
+Location manager,外景经理,zh-CN
+Casting director,选角导演,zh-CN
+Script supervisor,场记,zh-CN
+Gaffer,灯光师,zh-CN
+Best boy,灯光助理,zh-CN
+Key grip,摄影机操作员,zh-CN
+Camera operator,摄影师,zh-CN
+Focus puller,跟焦员,zh-CN
+Boom operator,录音师,zh-CN
+Props master,道具师,zh-CN
+Set decorator,布景装饰师,zh-CN
+Production designer,美术指导,zh-CN
+Visual effects,视觉效果,zh-CN
+Special effects,特效,zh-CN
+CGI,电脑特效,zh-CN
+Green screen,绿幕,zh-CN
+Blue screen,蓝幕,zh-CN
+Motion capture,动作捕捉,zh-CN
+Storyboard,分镜脚本,zh-CN
+Shot list,镜头清单,zh-CN
+Scene,场景,zh-CN
+Take,镜头,zh-CN
+Cut,剪辑,zh-CN
+Close-up,特写,zh-CN
+Medium shot,中景,zh-CN
+Long shot,远景,zh-CN
+Establishing shot,定场镜头,zh-CN
+Tracking shot,跟拍镜头,zh-CN
+Pan shot,摇镜头,zh-CN
+Tilt shot,俯仰镜头,zh-CN
+Dolly shot,推轨镜头,zh-CN
+Crane shot,升降镜头,zh-CN
+Aerial shot,航拍镜头,zh-CN
+Point of view shot,主观镜头,zh-CN
+Over the shoulder shot,过肩镜头,zh-CN
+Two shot,双人镜头,zh-CN
+Group shot,群像镜头,zh-CN
+Action,动作,zh-CN
+Cut,停,zh-CN
+Roll camera,开机,zh-CN
+Speed,开始,zh-CN
+Wrap,收工,zh-CN
+Set,片场,zh-CN
+Location,外景地,zh-CN
+Studio,摄影棚,zh-CN
+Sound stage,录音棚,zh-CN
+Backlot,外景场地,zh-CN
+Props,道具,zh-CN
+Set dressing,布景装饰,zh-CN
+Costume,服装,zh-CN
+Wardrobe,服装间,zh-CN
+Makeup,化妆,zh-CN
+Hair,发型,zh-CN
+Lighting,灯光,zh-CN
+Camera,摄影机,zh-CN
+Lens,镜头,zh-CN
+Tripod,三脚架,zh-CN
+Dolly,推轨,zh-CN
+Crane,升降机,zh-CN
+Microphone,麦克风,zh-CN
+Boom pole,话筒杆,zh-CN
+Monitor,监视器,zh-CN
+Script,剧本,zh-CN
+Call sheet,通告单,zh-CN
+Storyboard,分镜图,zh-CN
+Shot list,镜头清单,zh-CN
+Schedule,拍摄计划,zh-CN
+Budget,预算,zh-CN
+Release date,上映日期,zh-CN
+Box office,票房,zh-CN
+Gross,总收入,zh-CN
+Net,净收入,zh-CN
+Rating,分级,zh-CN
+Genre,类型,zh-CN
+Plot,剧情,zh-CN
+Character,角色,zh-CN
+Theme,主题,zh-CN
+Setting,背景,zh-CN
+Conflict,冲突,zh-CN
+Resolution,结局,zh-CN
+Movie,電影,zh-TW
+Film,電影,zh-TW
+Cinema,電影,zh-TW
+Motion picture,電影,zh-TW
+Feature film,劇情片,zh-TW
+Short film,短片,zh-TW
+Documentary,紀錄片,zh-TW
+Animation,動畫片,zh-TW
+Live action,真人電影,zh-TW
+Silent film,默片,zh-TW
+Sound film,有聲電影,zh-TW
+Color film,彩色電影,zh-TW
+Black and white,黑白電影,zh-TW
+3D film,3D電影,zh-TW
+IMAX,IMAX電影,zh-TW
+Director,導演,zh-TW
+Producer,製片人,zh-TW
+Screenwriter,編劇,zh-TW
+Actor,演員,zh-TW
+Actress,女演員,zh-TW
+Star,明星,zh-TW
+Lead actor,主演,zh-TW
+Supporting actor,配角,zh-TW
+Cameo,客串,zh-TW
+Extra,臨時演員,zh-TW
+Stunt double,替身演員,zh-TW
+Cinematographer,攝影師,zh-TW
+Editor,剪輯師,zh-TW
+Sound designer,音效設計師,zh-TW
+Composer,配樂師,zh-TW
+Art director,美術指導,zh-TW
+Costume designer,服裝設計師,zh-TW
+Makeup artist,化妝師,zh-TW
+Set designer,佈景設計師,zh-TW
+Location manager,外景經理,zh-TW
+Casting director,選角導演,zh-TW
+Script supervisor,場記,zh-TW
+Gaffer,燈光師,zh-TW
+Best boy,燈光助理,zh-TW
+Key grip,攝影機操作員,zh-TW
+Camera operator,攝影師,zh-TW
+Focus puller,跟焦員,zh-TW
+Boom operator,錄音師,zh-TW
+Props master,道具師,zh-TW
+Set decorator,佈景裝飾師,zh-TW
+Production designer,美術指導,zh-TW
+Visual effects,視覺效果,zh-TW
+Special effects,特效,zh-TW
+CGI,電腦特效,zh-TW
+Green screen,綠幕,zh-TW
+Blue screen,藍幕,zh-TW
+Motion capture,動作捕捉,zh-TW
+Storyboard,分鏡腳本,zh-TW
+Shot list,鏡頭清單,zh-TW
+Scene,場景,zh-TW
+Take,鏡頭,zh-TW
+Cut,剪輯,zh-TW
+Close-up,特寫,zh-TW
+Medium shot,中景,zh-TW
+Long shot,遠景,zh-TW
+Establishing shot,定場鏡頭,zh-TW
+Tracking shot,跟拍鏡頭,zh-TW
+Pan shot,搖鏡頭,zh-TW
+Tilt shot,俯仰鏡頭,zh-TW
+Dolly shot,推軌鏡頭,zh-TW
+Crane shot,升降鏡頭,zh-TW
+Aerial shot,空拍鏡頭,zh-TW
+Point of view shot,主觀鏡頭,zh-TW
+Over the shoulder shot,過肩鏡頭,zh-TW
+Two shot,雙人鏡頭,zh-TW
+Group shot,群像鏡頭,zh-TW
+Action,動作,zh-TW
+Cut,停,zh-TW
+Roll camera,開機,zh-TW
+Speed,開始,zh-TW
+Wrap,收工,zh-TW
+Set,片場,zh-TW
+Location,外景地,zh-TW
+Studio,攝影棚,zh-TW
+Sound stage,錄音棚,zh-TW
+Backlot,外景場地,zh-TW
+Props,道具,zh-TW
+Set dressing,佈景裝飾,zh-TW
+Costume,服裝,zh-TW
+Wardrobe,服裝間,zh-TW
+Makeup,化妝,zh-TW
+Hair,髮型,zh-TW
+Lighting,燈光,zh-TW
+Camera,攝影機,zh-TW
+Lens,鏡頭,zh-TW
+Tripod,三腳架,zh-TW
+Dolly,推軌,zh-TW
+Crane,升降機,zh-TW
+Microphone,麥克風,zh-TW
+Boom pole,麥克風桿,zh-TW
+Monitor,監視器,zh-TW
+Script,劇本,zh-TW
+Call sheet,通告單,zh-TW
+Storyboard,分鏡圖,zh-TW
+Shot list,鏡頭清單,zh-TW
+Schedule,拍攝計劃,zh-TW
+Budget,預算,zh-TW
+Release date,上映日期,zh-TW
+Box office,票房,zh-TW
+Gross,總收入,zh-TW
+Net,淨收入,zh-TW
+Rating,分級,zh-TW
+Genre,類型,zh-TW
+Plot,劇情,zh-TW
+Character,角色,zh-TW
+Theme,主題,zh-TW
+Setting,背景,zh-TW
+Conflict,衝突,zh-TW
+Resolution,結局,zh-TW 

@@ -1,0 +1,32 @@
+{
+  "id": "news",
+  "name": "News Media Expert",
+  "description": "Specialized in translating news media content, ensuring accurate and idiomatic translations for news articles, reports, and media-related content.",
+  "author": "immersive",
+  "glossary": "news",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.bloomberg.com/*",
+    "https://www.reuters.com/*",
+    "https://www.wsj.com/*",
+    "https://www.ft.com/*",
+    "https://www.cnbc.com/*",
+    "https://www.bbc.com/*",
+    "https://www.cnn.com/*",
+    "https://www.nytimes.com/*",
+    "https://www.washingtonpost.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "新闻媒体专家",
+      "description": "专门翻译新闻媒体相关内容，确保新闻文章、报道和媒体相关内容的准确性和地道性。"
+    },
+    "zh-TW": {
+      "name": "新聞媒體專家",
+      "description": "專門翻譯新聞媒體相關內容，確保新聞文章、報導和媒體相關內容的準確與地道翻譯。"
+    }
+  }
+} 

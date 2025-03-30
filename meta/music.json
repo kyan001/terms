@@ -1,0 +1,28 @@
+{
+  "id": "music",
+  "name": "Music",
+  "description": "音乐术语库，包含乐器、乐理、演奏等相关术语的中文翻译。",
+  "author": "immersive",
+  "glossary": "music",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.musicradar.com/*",
+    "https://www.soundonsound.com/*",
+    "https://www.allmusic.com/*",
+    "https://pitchfork.com/*",
+    "https://www.rollingstone.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "音乐",
+      "description": "音乐术语库，包含乐器、乐理、演奏等相关术语的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "音樂",
+      "description": "音樂術語庫，包含樂器、樂理、演奏等相關術語的中文翻譯。"
+    }
+  }
+} 

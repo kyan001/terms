@@ -1,0 +1,28 @@
+{
+  "id": "pet",
+  "name": "Pet",
+  "description": "宠物术语库，包含宠物种类、护理、训练等相关术语的中文翻译。",
+  "author": "immersive",
+  "glossary": "pet",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.petmd.com/*",
+    "https://www.akc.org/*",
+    "https://www.aspca.org/*",
+    "https://www.petsmart.com/*",
+    "https://www.petco.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "宠物",
+      "description": "宠物术语库，包含宠物种类、护理、训练等相关术语的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "寵物",
+      "description": "寵物術語庫，包含寵物品種、護理、訓練等相關術語的中文翻譯。"
+    }
+  }
+} 

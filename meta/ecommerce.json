@@ -1,0 +1,31 @@
+{
+  "id": "ecommerce",
+  "name": "E-commerce Expert",
+  "description": "Specialized in translating e-commerce content, ensuring accurate and idiomatic translations for online shopping, product listings, and e-commerce related content.",
+  "author": "immersive",
+  "glossary": "ecommerce",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.amazon.com/*",
+    "https://www.ebay.com/*",
+    "https://www.alibaba.com/*",
+    "https://www.aliexpress.com/*",
+    "https://www.walmart.com/*",
+    "https://www.target.com/*",
+    "https://www.shopify.com/*",
+    "https://www.etsy.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "电商专家",
+      "description": "专门翻译电商相关内容，确保在线购物、产品列表和电商相关内容的准确性和地道性。"
+    },
+    "zh-TW": {
+      "name": "電商專家",
+      "description": "專門翻譯電商相關內容，確保線上購物、產品列表和電商相關內容的準確與地道翻譯。"
+    }
+  }
+} 

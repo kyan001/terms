@@ -1,0 +1,28 @@
+{
+  "id": "auto",
+  "name": "Auto Expert",
+  "description": "Specialized in translating automotive-related content, ensuring accurate and idiomatic translations for car terms, parts, technology, and automotive-related content.",
+  "author": "immersive",
+  "glossary": "auto",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.autoblog.com/*",
+    "https://www.caranddriver.com/*",
+    "https://www.motortrend.com/*",
+    "https://www.topgear.com/*",
+    "https://www.autonews.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "汽车专家",
+      "description": "专门翻译汽车相关内容，确保汽车术语、零部件、技术和汽车相关内容的准确性和地道性。"
+    },
+    "zh-TW": {
+      "name": "汽車專家",
+      "description": "專門翻譯汽車相關內容，確保汽車術語、零組件、技術和汽車相關內容的準確與地道翻譯。"
+    }
+  }
+} 

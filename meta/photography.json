@@ -1,0 +1,28 @@
+{
+  "id": "photography",
+  "name": "Photography",
+  "description": "摄影术语库，包含相机、镜头、拍摄等相关术语的中文翻译。",
+  "author": "immersive",
+  "glossary": "photography",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.dpreview.com/*",
+    "https://photographylife.com/*",
+    "https://www.fujifilm.com/*",
+    "https://www.sony.com/*",
+    "https://www.nikon.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "摄影",
+      "description": "摄影术语库，包含相机、镜头、拍摄等相关术语的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "攝影",
+      "description": "攝影術語庫，包含相機、鏡頭、拍攝等相關術語的中文翻譯。"
+    }
+  }
+} 

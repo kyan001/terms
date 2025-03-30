@@ -1,0 +1,28 @@
+{
+  "id": "legal",
+  "name": "Legal",
+  "description": "法律术语库，包含法律概念、程序、文件等相关术语的中文翻译。",
+  "author": "immersive",
+  "glossary": "legal",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.law.com/*",
+    "https://www.legalzoom.com/*",
+    "https://www.findlaw.com/*",
+    "https://www.avvo.com/*",
+    "https://www.justia.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "法律",
+      "description": "法律术语库，包含法律概念、程序、文件等相关术语的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "法律",
+      "description": "法律術語庫，包含法律概念、程序、文件等相關術語的中文翻譯。"
+    }
+  }
+} 

@@ -1,0 +1,225 @@
+source,target,tgt_lng
+Constitution,宪法,zh-CN
+Law,法律,zh-CN
+Regulation,法规,zh-CN
+Statute,法令,zh-CN
+Ordinance,条例,zh-CN
+Code,法典,zh-CN
+Amendment,修正案,zh-CN
+Article,条款,zh-CN
+Section,章节,zh-CN
+Clause,条款,zh-CN
+Subsection,小节,zh-CN
+Paragraph,段落,zh-CN
+Proviso,但书,zh-CN
+Schedule,附表,zh-CN
+Appendix,附录,zh-CN
+Jurisdiction,管辖权,zh-CN
+Court,法院,zh-CN
+Supreme Court,最高法院,zh-CN
+High Court,高等法院,zh-CN
+District Court,地区法院,zh-CN
+Magistrate Court,治安法院,zh-CN
+Appeal Court,上诉法院,zh-CN
+Circuit Court,巡回法院,zh-CN
+Tribunal,法庭,zh-CN
+Judge,法官,zh-CN
+Justice,大法官,zh-CN
+Magistrate,治安法官,zh-CN
+Prosecutor,检察官,zh-CN
+Attorney,律师,zh-CN
+Counsel,法律顾问,zh-CN
+Solicitor,事务律师,zh-CN
+Barrister,出庭律师,zh-CN
+Plaintiff,原告,zh-CN
+Defendant,被告,zh-CN
+Appellant,上诉人,zh-CN
+Respondent,被上诉人,zh-CN
+Witness,证人,zh-CN
+Expert witness,专家证人,zh-CN
+Jury,陪审团,zh-CN
+Juror,陪审员,zh-CN
+Bailiff,法警,zh-CN
+Clerk,书记员,zh-CN
+Court reporter,法庭记录员,zh-CN
+Case,案件,zh-CN
+Civil case,民事案件,zh-CN
+Criminal case,刑事案件,zh-CN
+Administrative case,行政案件,zh-CN
+Appeal,上诉,zh-CN
+Hearing,听证,zh-CN
+Trial,审判,zh-CN
+Verdict,判决,zh-CN
+Judgment,判决,zh-CN
+Order,命令,zh-CN
+Decree,法令,zh-CN
+Ruling,裁定,zh-CN
+Decision,决定,zh-CN
+Opinion,意见,zh-CN
+Dissenting opinion,异议意见,zh-CN
+Concurring opinion,附议意见,zh-CN
+Majority opinion,多数意见,zh-CN
+Minority opinion,少数意见,zh-CN
+Precedent,先例,zh-CN
+Binding precedent,有约束力的先例,zh-CN
+Persuasive precedent,有说服力的先例,zh-CN
+Stare decisis,遵循先例,zh-CN
+Common law,普通法,zh-CN
+Statute law,成文法,zh-CN
+Equity,衡平法,zh-CN
+Customary law,习惯法,zh-CN
+International law,国际法,zh-CN
+Domestic law,国内法,zh-CN
+Public law,公法,zh-CN
+Private law,私法,zh-CN
+Criminal law,刑法,zh-CN
+Civil law,民法,zh-CN
+Administrative law,行政法,zh-CN
+Constitutional law,宪法,zh-CN
+Contract law,合同法,zh-CN
+Property law,财产法,zh-CN
+Family law,家庭法,zh-CN
+Labor law,劳动法,zh-CN
+Commercial law,商法,zh-CN
+Bankruptcy law,破产法,zh-CN
+Tax law,税法,zh-CN
+Environmental law,环境法,zh-CN
+Intellectual property law,知识产权法,zh-CN
+Contract,合同,zh-CN
+Agreement,协议,zh-CN
+Deed,契据,zh-CN
+Will,遗嘱,zh-CN
+Trust,信托,zh-CN
+Lease,租约,zh-CN
+License,许可证,zh-CN
+Patent,专利,zh-CN
+Copyright,版权,zh-CN
+Trademark,商标,zh-CN
+Infringement,侵权,zh-CN
+Breach,违约,zh-CN
+Liability,责任,zh-CN
+Negligence,过失,zh-CN
+Fraud,欺诈,zh-CN
+Theft,盗窃,zh-CN
+Assault,攻击,zh-CN
+Battery,殴打,zh-CN
+Murder,谋杀,zh-CN
+Manslaughter,过失杀人,zh-CN
+Robbery,抢劫,zh-CN
+Burglary,入室盗窃,zh-CN
+Arson,纵火,zh-CN
+Forgery,伪造,zh-CN
+Perjury,伪证,zh-CN
+Contempt of court,藐视法庭,zh-CN
+Constitution,憲法,zh-TW
+Law,法律,zh-TW
+Regulation,法規,zh-TW
+Statute,法令,zh-TW
+Ordinance,條例,zh-TW
+Code,法典,zh-TW
+Amendment,修正案,zh-TW
+Article,條款,zh-TW
+Section,章節,zh-TW
+Clause,條款,zh-TW
+Subsection,小節,zh-TW
+Paragraph,段落,zh-TW
+Proviso,但書,zh-TW
+Schedule,附表,zh-TW
+Appendix,附錄,zh-TW
+Jurisdiction,管轄權,zh-TW
+Court,法院,zh-TW
+Supreme Court,最高法院,zh-TW
+High Court,高等法院,zh-TW
+District Court,地方法院,zh-TW
+Magistrate Court,治安法院,zh-TW
+Appeal Court,上訴法院,zh-TW
+Circuit Court,巡迴法院,zh-TW
+Tribunal,法庭,zh-TW
+Judge,法官,zh-TW
+Justice,大法官,zh-TW
+Magistrate,治安法官,zh-TW
+Prosecutor,檢察官,zh-TW
+Attorney,律師,zh-TW
+Counsel,法律顧問,zh-TW
+Solicitor,事務律師,zh-TW
+Barrister,大律師,zh-TW
+Plaintiff,原告,zh-TW
+Defendant,被告,zh-TW
+Appellant,上訴人,zh-TW
+Respondent,被上訴人,zh-TW
+Witness,證人,zh-TW
+Expert witness,專家證人,zh-TW
+Jury,陪審團,zh-TW
+Juror,陪審員,zh-TW
+Bailiff,法警,zh-TW
+Clerk,書記官,zh-TW
+Court reporter,法庭記錄員,zh-TW
+Case,案件,zh-TW
+Civil case,民事案件,zh-TW
+Criminal case,刑事案件,zh-TW
+Administrative case,行政案件,zh-TW
+Appeal,上訴,zh-TW
+Hearing,聽證,zh-TW
+Trial,審判,zh-TW
+Verdict,判決,zh-TW
+Judgment,判決,zh-TW
+Order,命令,zh-TW
+Decree,法令,zh-TW
+Ruling,裁定,zh-TW
+Decision,決定,zh-TW
+Opinion,意見,zh-TW
+Dissenting opinion,異議意見,zh-TW
+Concurring opinion,附議意見,zh-TW
+Majority opinion,多數意見,zh-TW
+Minority opinion,少數意見,zh-TW
+Precedent,先例,zh-TW
+Binding precedent,有拘束力的先例,zh-TW
+Persuasive precedent,有說服力的先例,zh-TW
+Stare decisis,遵循先例,zh-TW
+Common law,普通法,zh-TW
+Statute law,成文法,zh-TW
+Equity,衡平法,zh-TW
+Customary law,習慣法,zh-TW
+International law,國際法,zh-TW
+Domestic law,國內法,zh-TW
+Public law,公法,zh-TW
+Private law,私法,zh-TW
+Criminal law,刑法,zh-TW
+Civil law,民法,zh-TW
+Administrative law,行政法,zh-TW
+Constitutional law,憲法,zh-TW
+Contract law,契約法,zh-TW
+Property law,財產法,zh-TW
+Family law,家事法,zh-TW
+Labor law,勞動法,zh-TW
+Commercial law,商法,zh-TW
+Bankruptcy law,破產法,zh-TW
+Tax law,稅法,zh-TW
+Environmental law,環境法,zh-TW
+Intellectual property law,智慧財產權法,zh-TW
+Contract,契約,zh-TW
+Agreement,協議,zh-TW
+Deed,契據,zh-TW
+Will,遺囑,zh-TW
+Trust,信託,zh-TW
+Lease,租約,zh-TW
+License,許可證,zh-TW
+Patent,專利,zh-TW
+Copyright,著作權,zh-TW
+Trademark,商標,zh-TW
+Infringement,侵權,zh-TW
+Breach,違約,zh-TW
+Liability,責任,zh-TW
+Negligence,過失,zh-TW
+Fraud,詐欺,zh-TW
+Theft,竊盜,zh-TW
+Assault,攻擊,zh-TW
+Battery,傷害,zh-TW
+Murder,謀殺,zh-TW
+Manslaughter,過失致死,zh-TW
+Robbery,強盜,zh-TW
+Burglary,侵入住宅竊盜,zh-TW
+Arson,縱火,zh-TW
+Forgery,偽造,zh-TW
+Perjury,偽證,zh-TW
+Contempt of court,藐視法庭,zh-TW 

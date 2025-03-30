@@ -1,0 +1,27 @@
+{
+  "id": "tech",
+  "name": "Technology Expert",
+  "description": "Specialized in translating technology-related content, ensuring accurate and idiomatic translations for technical documentation, software interfaces, and IT terminology.",
+  "author": "immersive",
+  "glossary": "tech",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://github.com/*",
+    "https://docs.microsoft.com/*",
+    "https://developer.apple.com/*",
+    "https://developer.android.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "科技专家",
+      "description": "专门翻译与科技相关的内容，确保技术文档、软件界面和IT术语的准确性和地道性。"
+    },
+    "zh-TW": {
+      "name": "科技專家",
+      "description": "專門翻譯與科技相關的內容，確保技術文檔、軟體介面和IT術語的準確與地道翻譯。"
+    }
+  }
+} 

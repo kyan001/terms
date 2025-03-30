@@ -1,0 +1,209 @@
+source,target,tgt_lng
+Gardening,园艺,zh-CN
+Garden,花园,zh-CN
+Garden center,园艺中心,zh-CN
+Nursery,苗圃,zh-CN
+Greenhouse,温室,zh-CN
+Garden bed,花床,zh-CN
+Flower bed,花坛,zh-CN
+Vegetable garden,菜园,zh-CN
+Herb garden,香草园,zh-CN
+Rock garden,岩石园,zh-CN
+Water garden,水景园,zh-CN
+Container garden,容器花园,zh-CN
+Indoor garden,室内花园,zh-CN
+Outdoor garden,户外花园,zh-CN
+Plant,植物,zh-CN
+Flower,花,zh-CN
+Tree,树,zh-CN
+Shrub,灌木,zh-CN
+Herb,香草,zh-CN
+Vegetable,蔬菜,zh-CN
+Fruit,水果,zh-CN
+Seed,种子,zh-CN
+Seedling,幼苗,zh-CN
+Sapling,树苗,zh-CN
+Cutting,插条,zh-CN
+Bulb,球根,zh-CN
+Root,根,zh-CN
+Stem,茎,zh-CN
+Leaf,叶,zh-CN
+Branch,枝,zh-CN
+Trunk,树干,zh-CN
+Bark,树皮,zh-CN
+Soil,土壤,zh-CN
+Compost,堆肥,zh-CN
+Fertilizer,肥料,zh-CN
+Mulch,覆盖物,zh-CN
+Peat,泥炭,zh-CN
+Sand,沙子,zh-CN
+Clay,粘土,zh-CN
+Loam,壤土,zh-CN
+Watering,浇水,zh-CN
+Irrigation,灌溉,zh-CN
+Sprinkler,喷水器,zh-CN
+Hose,水管,zh-CN
+Watering can,浇水壶,zh-CN
+Pruning,修剪,zh-CN
+Weeding,除草,zh-CN
+Mowing,割草,zh-CN
+Digging,挖掘,zh-CN
+Planting,种植,zh-CN
+Transplanting,移栽,zh-CN
+Harvesting,收获,zh-CN
+Grafting,嫁接,zh-CN
+Pollination,授粉,zh-CN
+Germination,发芽,zh-CN
+Growth,生长,zh-CN
+Development,发育,zh-CN
+Maturity,成熟,zh-CN
+Dormancy,休眠,zh-CN
+Season,季节,zh-CN
+Spring,春天,zh-CN
+Summer,夏天,zh-CN
+Autumn,秋天,zh-CN
+Winter,冬天,zh-CN
+Climate,气候,zh-CN
+Temperature,温度,zh-CN
+Humidity,湿度,zh-CN
+Sunlight,阳光,zh-CN
+Shade,阴影,zh-CN
+Wind,风,zh-CN
+Rain,雨,zh-CN
+Frost,霜,zh-CN
+Snow,雪,zh-CN
+Drought,干旱,zh-CN
+Flood,洪水,zh-CN
+Pest,害虫,zh-CN
+Disease,病害,zh-CN
+Fungus,真菌,zh-CN
+Mold,霉菌,zh-CN
+Insect,昆虫,zh-CN
+Worm,蠕虫,zh-CN
+Snail,蜗牛,zh-CN
+Slug,蛞蝓,zh-CN
+Aphid,蚜虫,zh-CN
+Caterpillar,毛毛虫,zh-CN
+Ladybug,瓢虫,zh-CN
+Bee,蜜蜂,zh-CN
+Butterfly,蝴蝶,zh-CN
+Bird,鸟,zh-CN
+Tool,工具,zh-CN
+Shovel,铲子,zh-CN
+Spade,铁锹,zh-CN
+Hoe,锄头,zh-CN
+Rake,耙子,zh-CN
+Fork,叉子,zh-CN
+Trowel,小铲,zh-CN
+Pruner,修枝剪,zh-CN
+Shears,剪刀,zh-CN
+Lawn mower,割草机,zh-CN
+Wheelbarrow,手推车,zh-CN
+Gloves,手套,zh-CN
+Boots,靴子,zh-CN
+Hat,帽子,zh-CN
+Apron,围裙,zh-CN
+Gardening,園藝,zh-TW
+Garden,花園,zh-TW
+Garden center,園藝中心,zh-TW
+Nursery,苗圃,zh-TW
+Greenhouse,溫室,zh-TW
+Garden bed,花床,zh-TW
+Flower bed,花壇,zh-TW
+Vegetable garden,菜園,zh-TW
+Herb garden,香草園,zh-TW
+Rock garden,岩石園,zh-TW
+Water garden,水景園,zh-TW
+Container garden,容器花園,zh-TW
+Indoor garden,室內花園,zh-TW
+Outdoor garden,戶外花園,zh-TW
+Plant,植物,zh-TW
+Flower,花,zh-TW
+Tree,樹,zh-TW
+Shrub,灌木,zh-TW
+Herb,香草,zh-TW
+Vegetable,蔬菜,zh-TW
+Fruit,水果,zh-TW
+Seed,種子,zh-TW
+Seedling,幼苗,zh-TW
+Sapling,樹苗,zh-TW
+Cutting,插條,zh-TW
+Bulb,球根,zh-TW
+Root,根,zh-TW
+Stem,莖,zh-TW
+Leaf,葉,zh-TW
+Branch,枝,zh-TW
+Trunk,樹幹,zh-TW
+Bark,樹皮,zh-TW
+Soil,土壤,zh-TW
+Compost,堆肥,zh-TW
+Fertilizer,肥料,zh-TW
+Mulch,覆蓋物,zh-TW
+Peat,泥炭,zh-TW
+Sand,沙子,zh-TW
+Clay,黏土,zh-TW
+Loam,壤土,zh-TW
+Watering,澆水,zh-TW
+Irrigation,灌溉,zh-TW
+Sprinkler,灑水器,zh-TW
+Hose,水管,zh-TW
+Watering can,澆水壺,zh-TW
+Pruning,修剪,zh-TW
+Weeding,除草,zh-TW
+Mowing,割草,zh-TW
+Digging,挖掘,zh-TW
+Planting,種植,zh-TW
+Transplanting,移栽,zh-TW
+Harvesting,收成,zh-TW
+Grafting,嫁接,zh-TW
+Pollination,授粉,zh-TW
+Germination,發芽,zh-TW
+Growth,生長,zh-TW
+Development,發育,zh-TW
+Maturity,成熟,zh-TW
+Dormancy,休眠,zh-TW
+Season,季節,zh-TW
+Spring,春天,zh-TW
+Summer,夏天,zh-TW
+Autumn,秋天,zh-TW
+Winter,冬天,zh-TW
+Climate,氣候,zh-TW
+Temperature,溫度,zh-TW
+Humidity,濕度,zh-TW
+Sunlight,陽光,zh-TW
+Shade,陰影,zh-TW
+Wind,風,zh-TW
+Rain,雨,zh-TW
+Frost,霜,zh-TW
+Snow,雪,zh-TW
+Drought,乾旱,zh-TW
+Flood,洪水,zh-TW
+Pest,害蟲,zh-TW
+Disease,病害,zh-TW
+Fungus,真菌,zh-TW
+Mold,黴菌,zh-TW
+Insect,昆蟲,zh-TW
+Worm,蠕蟲,zh-TW
+Snail,蝸牛,zh-TW
+Slug,蛞蝓,zh-TW
+Aphid,蚜蟲,zh-TW
+Caterpillar,毛毛蟲,zh-TW
+Ladybug,瓢蟲,zh-TW
+Bee,蜜蜂,zh-TW
+Butterfly,蝴蝶,zh-TW
+Bird,鳥,zh-TW
+Tool,工具,zh-TW
+Shovel,鏟子,zh-TW
+Spade,鐵鍬,zh-TW
+Hoe,鋤頭,zh-TW
+Rake,耙子,zh-TW
+Fork,叉子,zh-TW
+Trowel,小鏟,zh-TW
+Pruner,修枝剪,zh-TW
+Shears,剪刀,zh-TW
+Lawn mower,割草機,zh-TW
+Wheelbarrow,手推車,zh-TW
+Gloves,手套,zh-TW
+Boots,靴子,zh-TW
+Hat,帽子,zh-TW
+Apron,圍裙,zh-TW 

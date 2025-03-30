@@ -1,0 +1,28 @@
+{
+  "id": "education",
+  "name": "Education",
+  "description": "教育术语库，包含教学、学习、课程等相关术语的中文翻译。",
+  "author": "immersive",
+  "glossary": "education",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.education.com/*",
+    "https://www.edweek.org/*",
+    "https://www.insidehighered.com/*",
+    "https://www.chronicle.com/*",
+    "https://www.tes.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "教育",
+      "description": "教育术语库，包含教学、学习、课程等相关术语的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "教育",
+      "description": "教育術語庫，包含教學、學習、課程等相關術語的中文翻譯。"
+    }
+  }
+} 

@@ -1,0 +1,28 @@
+{
+  "id": "fashion",
+  "name": "Fashion Expert",
+  "description": "Specialized in translating fashion-related content, ensuring accurate and idiomatic translations for fashion terms, clothing, accessories, and fashion-related content.",
+  "author": "immersive",
+  "glossary": "fashion",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.vogue.com/*",
+    "https://www.elle.com/*",
+    "https://www.harpersbazaar.com/*",
+    "https://www.wwd.com/*",
+    "https://www.businessoffashion.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "时尚专家",
+      "description": "专门翻译时尚相关内容，确保时尚术语、服装、配饰和时尚相关内容的准确性和地道性。"
+    },
+    "zh-TW": {
+      "name": "時尚專家",
+      "description": "專門翻譯時尚相關內容，確保時尚術語、服裝、配飾和時尚相關內容的準確與地道翻譯。"
+    }
+  }
+} 

@@ -1,0 +1,28 @@
+{
+  "id": "travel",
+  "name": "Travel",
+  "description": "旅游术语库，包含景点、住宿、交通等相关术语的中文翻译。",
+  "author": "immersive",
+  "glossary": "travel",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.tripadvisor.com/*",
+    "https://www.lonelyplanet.com/*",
+    "https://www.booking.com/*",
+    "https://www.expedia.com/*",
+    "https://www.airbnb.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "旅游",
+      "description": "旅游术语库，包含景点、住宿、交通等相关术语的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "旅遊",
+      "description": "旅遊術語庫，包含景點、住宿、交通等相關術語的中文翻譯。"
+    }
+  }
+} 

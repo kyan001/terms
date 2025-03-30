@@ -1,0 +1,157 @@
+source,target,tgt_lng
+Photography,摄影,zh-CN
+Camera,相机,zh-CN
+Lens,镜头,zh-CN
+Body,机身,zh-CN
+Sensor,传感器,zh-CN
+Viewfinder,取景器,zh-CN
+LCD,液晶屏,zh-CN
+Screen,屏幕,zh-CN
+Shutter,快门,zh-CN
+Aperture,光圈,zh-CN
+ISO,感光度,zh-CN
+Exposure,曝光,zh-CN
+Metering,测光,zh-CN
+Focus,对焦,zh-CN
+Autofocus,自动对焦,zh-CN
+Manual focus,手动对焦,zh-CN
+Flash,闪光灯,zh-CN
+Tripod,三脚架,zh-CN
+Filter,滤镜,zh-CN
+Battery,电池,zh-CN
+Memory card,存储卡,zh-CN
+SD card,SD卡,zh-CN
+CF card,CF卡,zh-CN
+RAW,原始格式,zh-CN
+JPEG,JPEG格式,zh-CN
+Resolution,分辨率,zh-CN
+Megapixel,百万像素,zh-CN
+Frame,画幅,zh-CN
+Full frame,全画幅,zh-CN
+APS-C,APS-C画幅,zh-CN
+Micro Four Thirds,微单,zh-CN
+Focal length,焦距,zh-CN
+Zoom,变焦,zh-CN
+Prime,定焦,zh-CN
+Wide angle,广角,zh-CN
+Telephoto,长焦,zh-CN
+Macro,微距,zh-CN
+Portrait,人像,zh-CN
+Landscape,风景,zh-CN
+Street,街拍,zh-CN
+Sports,运动,zh-CN
+Wildlife,野生动物,zh-CN
+Night,夜景,zh-CN
+Studio,影棚,zh-CN
+Light,光线,zh-CN
+Natural light,自然光,zh-CN
+Artificial light,人造光,zh-CN
+Flash light,闪光,zh-CN
+Continuous light,持续光,zh-CN
+Soft light,柔光,zh-CN
+Hard light,硬光,zh-CN
+Backlight,逆光,zh-CN
+Side light,侧光,zh-CN
+Front light,顺光,zh-CN
+Composition,构图,zh-CN
+Rule of thirds,三分法,zh-CN
+Leading lines,引导线,zh-CN
+Framing,框架,zh-CN
+Symmetry,对称,zh-CN
+Balance,平衡,zh-CN
+Depth,深度,zh-CN
+Perspective,透视,zh-CN
+Angle,角度,zh-CN
+Viewpoint,视点,zh-CN
+Background,背景,zh-CN
+Foreground,前景,zh-CN
+Subject,主体,zh-CN
+Model,模特,zh-CN
+Photographer,摄影师,zh-CN
+Assistant,助理,zh-CN
+Client,客户,zh-CN
+Portfolio,作品集,zh-CN
+Gallery,画廊,zh-CN
+Exhibition,展览,zh-CN
+Print,打印,zh-CN
+Enlargement,放大,zh-CN
+Frame,相框,zh-CN
+Album,相册,zh-CN
+Photography,攝影,zh-TW
+Camera,相機,zh-TW
+Lens,鏡頭,zh-TW
+Body,機身,zh-TW
+Sensor,感光元件,zh-TW
+Viewfinder,觀景窗,zh-TW
+LCD,液晶螢幕,zh-TW
+Screen,螢幕,zh-TW
+Shutter,快門,zh-TW
+Aperture,光圈,zh-TW
+ISO,感光度,zh-TW
+Exposure,曝光,zh-TW
+Metering,測光,zh-TW
+Focus,對焦,zh-TW
+Autofocus,自動對焦,zh-TW
+Manual focus,手動對焦,zh-TW
+Flash,閃光燈,zh-TW
+Tripod,腳架,zh-TW
+Filter,濾鏡,zh-TW
+Battery,電池,zh-TW
+Memory card,記憶卡,zh-TW
+SD card,SD卡,zh-TW
+CF card,CF卡,zh-TW
+RAW,原始檔,zh-TW
+JPEG,JPEG格式,zh-TW
+Resolution,解析度,zh-TW
+Megapixel,百萬畫素,zh-TW
+Frame,片幅,zh-TW
+Full frame,全片幅,zh-TW
+APS-C,APS-C片幅,zh-TW
+Micro Four Thirds,微單,zh-TW
+Focal length,焦距,zh-TW
+Zoom,變焦,zh-TW
+Prime,定焦,zh-TW
+Wide angle,廣角,zh-TW
+Telephoto,長焦,zh-TW
+Macro,微距,zh-TW
+Portrait,人像,zh-TW
+Landscape,風景,zh-TW
+Street,街拍,zh-TW
+Sports,運動,zh-TW
+Wildlife,野生動物,zh-TW
+Night,夜景,zh-TW
+Studio,攝影棚,zh-TW
+Light,光線,zh-TW
+Natural light,自然光,zh-TW
+Artificial light,人造光,zh-TW
+Flash light,閃光,zh-TW
+Continuous light,持續光,zh-TW
+Soft light,柔光,zh-TW
+Hard light,硬光,zh-TW
+Backlight,逆光,zh-TW
+Side light,側光,zh-TW
+Front light,順光,zh-TW
+Composition,構圖,zh-TW
+Rule of thirds,三分法,zh-TW
+Leading lines,引導線,zh-TW
+Framing,框架,zh-TW
+Symmetry,對稱,zh-TW
+Balance,平衡,zh-TW
+Depth,深度,zh-TW
+Perspective,透視,zh-TW
+Angle,角度,zh-TW
+Viewpoint,視點,zh-TW
+Background,背景,zh-TW
+Foreground,前景,zh-TW
+Subject,主體,zh-TW
+Model,模特兒,zh-TW
+Photographer,攝影師,zh-TW
+Assistant,助理,zh-TW
+Client,客戶,zh-TW
+Portfolio,作品集,zh-TW
+Gallery,藝廊,zh-TW
+Exhibition,展覽,zh-TW
+Print,列印,zh-TW
+Enlargement,放大,zh-TW
+Frame,相框,zh-TW
+Album,相簿,zh-TW 

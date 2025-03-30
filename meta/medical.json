@@ -1,0 +1,28 @@
+{
+  "id": "medical",
+  "name": "Medical",
+  "description": "医疗术语库，包含疾病、治疗、药物等相关术语的中文翻译。",
+  "author": "immersive",
+  "glossary": "medical",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.webmd.com/*",
+    "https://www.mayoclinic.org/*",
+    "https://www.medlineplus.gov/*",
+    "https://www.healthline.com/*",
+    "https://www.medicalnewstoday.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "医疗",
+      "description": "医疗术语库，包含疾病、治疗、药物等相关术语的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "醫療",
+      "description": "醫療術語庫，包含疾病、治療、藥物等相關術語的中文翻譯。"
+    }
+  }
+} 

@@ -1,0 +1,27 @@
+{
+  "id": "web3",
+  "name": "Web3 Expert",
+  "description": "Specialized in translating Web3 and blockchain content, ensuring accurate and idiomatic translations for cryptocurrency, DeFi, NFT, and blockchain technology terminology.",
+  "author": "immersive",
+  "glossary": "web3",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://ethereum.org/*",
+    "https://bitcoin.org/*",
+    "https://docs.soliditylang.org/*",
+    "https://docs.openzeppelin.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "Web3专家",
+      "description": "专门翻译与Web3和区块链相关的内容，确保加密货币、DeFi、NFT和区块链技术术语的准确性和地道性。"
+    },
+    "zh-TW": {
+      "name": "Web3專家",
+      "description": "專門翻譯與Web3和區塊鏈相關的內容，確保加密貨幣、DeFi、NFT和區塊鏈技術術語的準確與地道翻譯。"
+    }
+  }
+} 

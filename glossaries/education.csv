@@ -1,0 +1,231 @@
+source,target,tgt_lng
+Education,教育,zh-CN
+Teaching,教学,zh-CN
+Learning,学习,zh-CN
+Study,学习,zh-CN
+Research,研究,zh-CN
+Academic,学术的,zh-CN
+Scholarly,学术的,zh-CN
+Pedagogical,教学的,zh-CN
+Curriculum,课程,zh-CN
+Syllabus,教学大纲,zh-CN
+Program,课程,zh-CN
+Major,专业,zh-CN
+Minor,辅修,zh-CN
+Degree,学位,zh-CN
+Bachelor's degree,学士学位,zh-CN
+Master's degree,硕士学位,zh-CN
+Doctorate,博士学位,zh-CN
+PhD,哲学博士,zh-CN
+Diploma,文凭,zh-CN
+Certificate,证书,zh-CN
+School,学校,zh-CN
+University,大学,zh-CN
+College,学院,zh-CN
+Institute,研究所,zh-CN
+Academy,学院,zh-CN
+Kindergarten,幼儿园,zh-CN
+Primary school,小学,zh-CN
+Middle school,中学,zh-CN
+High school,高中,zh-CN
+Vocational school,职业学校,zh-CN
+Technical school,技术学校,zh-CN
+Art school,艺术学校,zh-CN
+Music school,音乐学校,zh-CN
+Language school,语言学校,zh-CN
+Online school,在线学校,zh-CN
+Distance learning,远程教育,zh-CN
+E-learning,在线学习,zh-CN
+Blended learning,混合式学习,zh-CN
+Teacher,教师,zh-CN
+Professor,教授,zh-CN
+Lecturer,讲师,zh-CN
+Instructor,讲师,zh-CN
+Tutor,导师,zh-CN
+Student,学生,zh-CN
+Pupil,小学生,zh-CN
+Graduate student,研究生,zh-CN
+Undergraduate,本科生,zh-CN
+Freshman,大一学生,zh-CN
+Sophomore,大二学生,zh-CN
+Junior,大三学生,zh-CN
+Senior,大四学生,zh-CN
+Class,班级,zh-CN
+Grade,年级,zh-CN
+Classroom,教室,zh-CN
+Lecture hall,讲堂,zh-CN
+Laboratory,实验室,zh-CN
+Library,图书馆,zh-CN
+Campus,校园,zh-CN
+Dormitory,宿舍,zh-CN
+Cafeteria,食堂,zh-CN
+Gymnasium,体育馆,zh-CN
+Auditorium,礼堂,zh-CN
+Subject,学科,zh-CN
+Course,课程,zh-CN
+Lecture,讲座,zh-CN
+Seminar,研讨会,zh-CN
+Workshop,工作坊,zh-CN
+Tutorial,辅导课,zh-CN
+Assignment,作业,zh-CN
+Homework,家庭作业,zh-CN
+Project,项目,zh-CN
+Thesis,论文,zh-CN
+Dissertation,学位论文,zh-CN
+Research paper,研究论文,zh-CN
+Presentation,演示,zh-CN
+Exam,考试,zh-CN
+Test,测验,zh-CN
+Quiz,小测验,zh-CN
+Midterm,期中考试,zh-CN
+Final,期末考试,zh-CN
+Grade,成绩,zh-CN
+Score,分数,zh-CN
+Mark,分数,zh-CN
+Pass,及格,zh-CN
+Fail,不及格,zh-CN
+Credit,学分,zh-CN
+GPA,平均绩点,zh-CN
+Transcript,成绩单,zh-CN
+Scholarship,奖学金,zh-CN
+Grant,助学金,zh-CN
+Fellowship,研究金,zh-CN
+Tuition,学费,zh-CN
+Fee,费用,zh-CN
+Textbook,教科书,zh-CN
+Workbook,练习册,zh-CN
+Notebook,笔记本,zh-CN
+Stationery,文具,zh-CN
+Pen,钢笔,zh-CN
+Pencil,铅笔,zh-CN
+Paper,纸,zh-CN
+Desk,课桌,zh-CN
+Chair,椅子,zh-CN
+Blackboard,黑板,zh-CN
+Whiteboard,白板,zh-CN
+Projector,投影仪,zh-CN
+Computer,电脑,zh-CN
+Tablet,平板电脑,zh-CN
+Smartphone,智能手机,zh-CN
+Internet,互联网,zh-CN
+Wi-Fi,无线网络,zh-CN
+Email,电子邮件,zh-CN
+Website,网站,zh-CN
+Platform,平台,zh-CN
+Software,软件,zh-CN
+Application,应用程序,zh-CN
+Education,教育,zh-TW
+Teaching,教學,zh-TW
+Learning,學習,zh-TW
+Study,學習,zh-TW
+Research,研究,zh-TW
+Academic,學術的,zh-TW
+Scholarly,學術的,zh-TW
+Pedagogical,教學的,zh-TW
+Curriculum,課程,zh-TW
+Syllabus,教學大綱,zh-TW
+Program,課程,zh-TW
+Major,主修,zh-TW
+Minor,輔修,zh-TW
+Degree,學位,zh-TW
+Bachelor's degree,學士學位,zh-TW
+Master's degree,碩士學位,zh-TW
+Doctorate,博士學位,zh-TW
+PhD,哲學博士,zh-TW
+Diploma,文憑,zh-TW
+Certificate,證書,zh-TW
+School,學校,zh-TW
+University,大學,zh-TW
+College,學院,zh-TW
+Institute,研究所,zh-TW
+Academy,學院,zh-TW
+Kindergarten,幼稚園,zh-TW
+Primary school,小學,zh-TW
+Middle school,中學,zh-TW
+High school,高中,zh-TW
+Vocational school,職業學校,zh-TW
+Technical school,技術學校,zh-TW
+Art school,藝術學校,zh-TW
+Music school,音樂學校,zh-TW
+Language school,語言學校,zh-TW
+Online school,線上學校,zh-TW
+Distance learning,遠距教育,zh-TW
+E-learning,線上學習,zh-TW
+Blended learning,混合式學習,zh-TW
+Teacher,教師,zh-TW
+Professor,教授,zh-TW
+Lecturer,講師,zh-TW
+Instructor,講師,zh-TW
+Tutor,導師,zh-TW
+Student,學生,zh-TW
+Pupil,小學生,zh-TW
+Graduate student,研究生,zh-TW
+Undergraduate,大學生,zh-TW
+Freshman,大一學生,zh-TW
+Sophomore,大二學生,zh-TW
+Junior,大三學生,zh-TW
+Senior,大四學生,zh-TW
+Class,班級,zh-TW
+Grade,年級,zh-TW
+Classroom,教室,zh-TW
+Lecture hall,講堂,zh-TW
+Laboratory,實驗室,zh-TW
+Library,圖書館,zh-TW
+Campus,校園,zh-TW
+Dormitory,宿舍,zh-TW
+Cafeteria,餐廳,zh-TW
+Gymnasium,體育館,zh-TW
+Auditorium,禮堂,zh-TW
+Subject,學科,zh-TW
+Course,課程,zh-TW
+Lecture,講座,zh-TW
+Seminar,研討會,zh-TW
+Workshop,工作坊,zh-TW
+Tutorial,輔導課,zh-TW
+Assignment,作業,zh-TW
+Homework,家庭作業,zh-TW
+Project,專案,zh-TW
+Thesis,論文,zh-TW
+Dissertation,學位論文,zh-TW
+Research paper,研究論文,zh-TW
+Presentation,簡報,zh-TW
+Exam,考試,zh-TW
+Test,測驗,zh-TW
+Quiz,小考,zh-TW
+Midterm,期中考,zh-TW
+Final,期末考,zh-TW
+Grade,成績,zh-TW
+Score,分數,zh-TW
+Mark,分數,zh-TW
+Pass,及格,zh-TW
+Fail,不及格,zh-TW
+Credit,學分,zh-TW
+GPA,平均成績,zh-TW
+Transcript,成績單,zh-TW
+Scholarship,獎學金,zh-TW
+Grant,助學金,zh-TW
+Fellowship,研究金,zh-TW
+Tuition,學費,zh-TW
+Fee,費用,zh-TW
+Textbook,教科書,zh-TW
+Workbook,習作簿,zh-TW
+Notebook,筆記本,zh-TW
+Stationery,文具,zh-TW
+Pen,鋼筆,zh-TW
+Pencil,鉛筆,zh-TW
+Paper,紙,zh-TW
+Desk,課桌椅,zh-TW
+Chair,椅子,zh-TW
+Blackboard,黑板,zh-TW
+Whiteboard,白板,zh-TW
+Projector,投影機,zh-TW
+Computer,電腦,zh-TW
+Tablet,平板電腦,zh-TW
+Smartphone,智慧型手機,zh-TW
+Internet,網際網路,zh-TW
+Wi-Fi,無線網路,zh-TW
+Email,電子郵件,zh-TW
+Website,網站,zh-TW
+Platform,平台,zh-TW
+Software,軟體,zh-TW
+Application,應用程式,zh-TW 

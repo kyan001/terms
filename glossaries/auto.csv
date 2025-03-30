@@ -1,0 +1,197 @@
+source,target,tgt_lng
+Car,汽车,zh-CN
+Automobile,汽车,zh-CN
+Vehicle,车辆,zh-CN
+Sedan,轿车,zh-CN
+SUV,运动型多用途车,zh-CN
+Crossover,跨界车,zh-CN
+Hatchback,掀背车,zh-CN
+Wagon,旅行车,zh-CN
+Van,厢式货车,zh-CN
+Truck,卡车,zh-CN
+Pickup,皮卡,zh-CN
+Sports car,跑车,zh-CN
+Luxury car,豪华车,zh-CN
+Electric car,电动汽车,zh-CN
+Hybrid car,混合动力车,zh-CN
+Plug-in hybrid,插电式混合动力车,zh-CN
+Self-driving car,自动驾驶汽车,zh-CN
+Autonomous vehicle,自动驾驶车辆,zh-CN
+Engine,发动机,zh-CN
+Transmission,变速箱,zh-CN
+Gearbox,变速箱,zh-CN
+Manual transmission,手动变速箱,zh-CN
+Automatic transmission,自动变速箱,zh-CN
+CVT,无级变速箱,zh-CN
+DCT,双离合变速箱,zh-CN
+Drivetrain,传动系统,zh-CN
+Front-wheel drive,前轮驱动,zh-CN
+Rear-wheel drive,后轮驱动,zh-CN
+All-wheel drive,全轮驱动,zh-CN
+Four-wheel drive,四轮驱动,zh-CN
+Suspension,悬挂系统,zh-CN
+Brake system,制动系统,zh-CN
+ABS,防抱死制动系统,zh-CN
+ESP,电子稳定程序,zh-CN
+Traction control,牵引力控制,zh-CN
+Airbag,安全气囊,zh-CN
+Seat belt,安全带,zh-CN
+Steering wheel,方向盘,zh-CN
+Dashboard,仪表盘,zh-CN
+Instrument cluster,仪表组,zh-CN
+Speedometer,速度表,zh-CN
+Tachometer,转速表,zh-CN
+Fuel gauge,燃油表,zh-CN
+Temperature gauge,温度表,zh-CN
+Oil pressure gauge,机油压力表,zh-CN
+Headlight,前大灯,zh-CN
+Taillight,尾灯,zh-CN
+Turn signal,转向灯,zh-CN
+Fog light,雾灯,zh-CN
+Windshield,挡风玻璃,zh-CN
+Wiper,雨刷器,zh-CN
+Mirror,后视镜,zh-CN
+Side mirror,侧视镜,zh-CN
+Rearview mirror,后视镜,zh-CN
+Door,车门,zh-CN
+Window,车窗,zh-CN
+Sunroof,天窗,zh-CN
+Trunk,后备箱,zh-CN
+Hood,发动机盖,zh-CN
+Grille,进气格栅,zh-CN
+Bumper,保险杠,zh-CN
+Fender,挡泥板,zh-CN
+Wheel,车轮,zh-CN
+Tire,轮胎,zh-CN
+Rim,轮圈,zh-CN
+Hubcap,轮毂盖,zh-CN
+Exhaust system,排气系统,zh-CN
+Muffler,消音器,zh-CN
+Catalytic converter,催化转换器,zh-CN
+Fuel system,燃油系统,zh-CN
+Fuel tank,燃油箱,zh-CN
+Fuel pump,燃油泵,zh-CN
+Fuel injector,燃油喷射器,zh-CN
+Air filter,空气滤清器,zh-CN
+Oil filter,机油滤清器,zh-CN
+Battery,蓄电池,zh-CN
+Alternator,发电机,zh-CN
+Starter,起动机,zh-CN
+Radiator,散热器,zh-CN
+Cooling system,冷却系统,zh-CN
+Heating system,供暖系统,zh-CN
+Air conditioning,空调,zh-CN
+Climate control,气候控制,zh-CN
+Navigation system,导航系统,zh-CN
+GPS,全球定位系统,zh-CN
+Infotainment system,信息娱乐系统,zh-CN
+Audio system,音响系统,zh-CN
+Bluetooth,蓝牙,zh-CN
+USB port,USB接口,zh-CN
+Auxiliary input,辅助输入,zh-CN
+Cruise control,巡航控制,zh-CN
+Lane departure warning,车道偏离警告,zh-CN
+Blind spot monitoring,盲点监测,zh-CN
+Parking assist,泊车辅助,zh-CN
+Backup camera,倒车影像,zh-CN
+Keyless entry,无钥匙进入,zh-CN
+Push start,一键启动,zh-CN
+Remote start,远程启动,zh-CN
+Car,汽車,zh-TW
+Automobile,汽車,zh-TW
+Vehicle,車輛,zh-TW
+Sedan,轎車,zh-TW
+SUV,運動型多用途車,zh-TW
+Crossover,跨界車,zh-TW
+Hatchback,掀背車,zh-TW
+Wagon,旅行車,zh-TW
+Van,廂式貨車,zh-TW
+Truck,卡車,zh-TW
+Pickup,皮卡,zh-TW
+Sports car,跑車,zh-TW
+Luxury car,豪華車,zh-TW
+Electric car,電動汽車,zh-TW
+Hybrid car,混合動力車,zh-TW
+Plug-in hybrid,插電式混合動力車,zh-TW
+Self-driving car,自動駕駛汽車,zh-TW
+Autonomous vehicle,自動駕駛車輛,zh-TW
+Engine,引擎,zh-TW
+Transmission,變速箱,zh-TW
+Gearbox,變速箱,zh-TW
+Manual transmission,手動變速箱,zh-TW
+Automatic transmission,自動變速箱,zh-TW
+CVT,無段變速箱,zh-TW
+DCT,雙離合變速箱,zh-TW
+Drivetrain,傳動系統,zh-TW
+Front-wheel drive,前輪驅動,zh-TW
+Rear-wheel drive,後輪驅動,zh-TW
+All-wheel drive,全輪驅動,zh-TW
+Four-wheel drive,四輪驅動,zh-TW
+Suspension,懸吊系統,zh-TW
+Brake system,制動系統,zh-TW
+ABS,防鎖死煞車系統,zh-TW
+ESP,電子穩定程式,zh-TW
+Traction control,循跡控制,zh-TW
+Airbag,安全氣囊,zh-TW
+Seat belt,安全帶,zh-TW
+Steering wheel,方向盤,zh-TW
+Dashboard,儀表板,zh-TW
+Instrument cluster,儀表組,zh-TW
+Speedometer,速度表,zh-TW
+Tachometer,轉速表,zh-TW
+Fuel gauge,燃油表,zh-TW
+Temperature gauge,溫度表,zh-TW
+Oil pressure gauge,機油壓力表,zh-TW
+Headlight,頭燈,zh-TW
+Taillight,尾燈,zh-TW
+Turn signal,方向燈,zh-TW
+Fog light,霧燈,zh-TW
+Windshield,擋風玻璃,zh-TW
+Wiper,雨刷,zh-TW
+Mirror,後視鏡,zh-TW
+Side mirror,側視鏡,zh-TW
+Rearview mirror,後視鏡,zh-TW
+Door,車門,zh-TW
+Window,車窗,zh-TW
+Sunroof,天窗,zh-TW
+Trunk,行李廂,zh-TW
+Hood,引擎蓋,zh-TW
+Grille,水箱護罩,zh-TW
+Bumper,保險桿,zh-TW
+Fender,葉子板,zh-TW
+Wheel,車輪,zh-TW
+Tire,輪胎,zh-TW
+Rim,輪圈,zh-TW
+Hubcap,輪圈蓋,zh-TW
+Exhaust system,排氣系統,zh-TW
+Muffler,消音器,zh-TW
+Catalytic converter,觸媒轉換器,zh-TW
+Fuel system,燃油系統,zh-TW
+Fuel tank,油箱,zh-TW
+Fuel pump,燃油泵,zh-TW
+Fuel injector,噴油嘴,zh-TW
+Air filter,空氣濾清器,zh-TW
+Oil filter,機油濾清器,zh-TW
+Battery,電瓶,zh-TW
+Alternator,發電機,zh-TW
+Starter,起動馬達,zh-TW
+Radiator,水箱,zh-TW
+Cooling system,冷卻系統,zh-TW
+Heating system,暖氣系統,zh-TW
+Air conditioning,空調,zh-TW
+Climate control,恆溫空調,zh-TW
+Navigation system,導航系統,zh-TW
+GPS,全球定位系統,zh-TW
+Infotainment system,資訊娛樂系統,zh-TW
+Audio system,音響系統,zh-TW
+Bluetooth,藍牙,zh-TW
+USB port,USB插槽,zh-TW
+Auxiliary input,輔助輸入,zh-TW
+Cruise control,定速巡航,zh-TW
+Lane departure warning,車道偏離警示,zh-TW
+Blind spot monitoring,盲點偵測,zh-TW
+Parking assist,停車輔助,zh-TW
+Backup camera,倒車攝影機,zh-TW
+Keyless entry,免鑰匙進入,zh-TW
+Push start,一鍵啟動,zh-TW
+Remote start,遠端啟動,zh-TW 

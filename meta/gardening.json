@@ -1,0 +1,28 @@
+{
+  "id": "gardening",
+  "name": "Gardening",
+  "description": "园艺术语库，包含植物、工具、技术等相关术语的中文翻译。",
+  "author": "immersive",
+  "glossary": "gardening",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://www.gardeners.com/*",
+    "https://www.burpee.com/*",
+    "https://www.garden.org/*",
+    "https://www.rhs.org.uk/*",
+    "https://www.gardeningknowhow.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "园艺",
+      "description": "园艺术语库，包含植物、工具、技术等相关术语的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "園藝",
+      "description": "園藝術語庫，包含植物、工具、技術等相關術語的中文翻譯。"
+    }
+  }
+} 
