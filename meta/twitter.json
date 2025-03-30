@@ -1,0 +1,25 @@
+{
+  "id": "twitter",
+  "name": "Twitter",
+  "description": "推特术语库，包含名人等相关术语的中文翻译。",
+  "author": "immersive",
+  "glossary": "twitter",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "matches": [
+    "https://twitter.com/*",
+    "https://x.com/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "推特",
+      "description": "推特术语库，包含名人等相关术语的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "推特",
+      "description": "推特術語庫，包含名人等相關術語的中文翻譯。"
+    }
+  }
+} 
