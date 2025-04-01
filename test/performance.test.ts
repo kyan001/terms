@@ -33,8 +33,6 @@ const IT_TEST_TEXT =
 
 // 使用正则表达式匹配
 function matchWithRegex(terms_regex: RegExp, text: string): string[] {
-    // 对术语进行转义，避免特殊字符影响
-
     const matches = text.match(terms_regex);
     return matches ? Array.from(new Set(matches)) : [];
 }
@@ -49,7 +47,7 @@ describe("术语匹配性能测试", () => {
     it(`应该正确比较合并后的术语库和实际IT领域文本的匹配性能`, async () => {
         // 强行补充到10000个术语
         const terms = await readAllGlossaryTerms();
-        const allTerms = [];
+        const allTerms: string[] = [];
         for (let i = 0; i < 10; i++) {
             allTerms.push(...terms);
         }
@@ -59,17 +57,33 @@ describe("术语匹配性能测试", () => {
         console.log(`\n使用合并后的术语库 (${allTerms.length} 个术语)`);
         console.log(`测试文本长度: ${IT_TEST_TEXT.length} 字符`);
         console.log(`测试文本内容:\n${IT_TEST_TEXT}\n`);
+        
+        // 测量正则表达式的转译时间
+        const regexEscapeStart = performance.now();
         const escapedTerms = terms.map((term) =>
             term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
         );
+        const regexEscapeEnd = performance.now();
+        const regexEscapeTime = regexEscapeEnd - regexEscapeStart;
+        
+        // 测量正则表达式的构建时间
+        const regexBuildStart = performance.now();
         const regex = new RegExp(escapedTerms.join("|"), "g");
+        const regexBuildEnd = performance.now();
+        const regexBuildTime = regexBuildEnd - regexBuildStart;
+        
+        // 预热阶段
+        console.log("正在进行预热...");
+        matchWithRegex(regex, IT_TEST_TEXT);
+        matchWithIncludes(allTerms, IT_TEST_TEXT);
+        
         // 测试正则表达式匹配
         const regexStart = performance.now();
         for (let i = 0; i < 1000; i++) {
             const regexResult = matchWithRegex(regex, IT_TEST_TEXT);
         }
         const regexEnd = performance.now();
-        const regexTime = regexEnd - regexStart;
+        const regexTime = (regexEnd - regexStart) / 1000;
 
         // 测试 includes 方法匹配
         const includesStart = performance.now();
@@ -77,15 +91,18 @@ describe("术语匹配性能测试", () => {
             const includesResult = matchWithIncludes(allTerms, IT_TEST_TEXT);
         }
         const includesEnd = performance.now();
-        const includesTime = includesEnd - includesStart;
+        const includesTime = (includesEnd - includesStart) / 1000;
 
         console.log(
             `测试结果 (${allTerms.length} 个术语, ${IT_TEST_TEXT.length} 字符文本):`,
         );
-        console.log(`正则表达式耗时: ${regexTime.toFixed(2)}ms`);
-        console.log(`includes 方法耗时: ${includesTime.toFixed(2)}ms`);
+        console.log(`正则表达式转译耗时: ${regexEscapeTime.toFixed(5)}ms`);
+        console.log(`正则表达式构建耗时: ${regexBuildTime.toFixed(5)}ms`);
+        console.log(`正则表达式准备总耗时: ${(regexEscapeTime + regexBuildTime).toFixed(5)}ms`);
+        console.log(`正则表达式匹配耗时: ${regexTime.toFixed(5)}ms`);
+        console.log(`includes 方法耗时: ${includesTime.toFixed(5)}ms`);
         console.log(
-            `性能差异: ${(regexTime / (includesTime || 1)).toFixed(2)}x`,
+            `匹配性能差异: ${(regexTime / (includesTime || 1)).toFixed(5)}x`,
         );
 
 
