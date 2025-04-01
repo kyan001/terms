@@ -4,6 +4,7 @@
   "description": "Specialized in translating e-commerce content, ensuring accurate and idiomatic translations for online shopping, product listings, and e-commerce related content.",
   "author": "immersive",
   "glossary": "ecommerce",
+  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"
@@ -28,4 +29,4 @@
       "description": "專門翻譯電商相關內容，確保線上購物、產品列表和電商相關內容的準確與地道翻譯。"
     }
   }
-} 
+}

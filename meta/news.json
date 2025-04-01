@@ -4,7 +4,8 @@
   "description": "Specialized in translating news media content, ensuring accurate and idiomatic translations for news articles, reports, and media-related content.",
   "author": "immersive",
   "glossary": "news",
-  "langs": [
+  "suffix": "v1",
+"langs": [
     "zh-CN",
     "zh-TW"
   ],

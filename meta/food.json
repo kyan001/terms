@@ -4,6 +4,7 @@
   "description": "Specialized in translating food-related content, ensuring accurate and idiomatic translations for culinary terms, ingredients, cooking techniques, and food-related content.",
   "author": "immersive",
   "glossary": "food",
+  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"
@@ -25,4 +26,4 @@
       "description": "專門翻譯美食相關內容，確保烹飪術語、食材、烹飪技巧和美食相關內容的準確與地道翻譯。"
     }
   }
-} 
+}

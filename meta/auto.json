@@ -4,6 +4,7 @@
   "description": "Specialized in translating automotive-related content, ensuring accurate and idiomatic translations for car terms, parts, technology, and automotive-related content.",
   "author": "immersive",
   "glossary": "auto",
+  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"
@@ -25,4 +26,4 @@
       "description": "專門翻譯汽車相關內容，確保汽車術語、零組件、技術和汽車相關內容的準確與地道翻譯。"
     }
   }
-} 
+}

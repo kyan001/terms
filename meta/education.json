@@ -4,6 +4,7 @@
   "description": "教育术语库，包含教学、学习、课程等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "education",
+  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"
@@ -25,4 +26,4 @@
       "description": "教育術語庫，包含教學、學習、課程等相關術語的中文翻譯。"
     }
   }
-} 
+}

@@ -4,6 +4,7 @@
   "description": "建筑术语库，包含建筑设计、施工、材料等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "architecture",
+  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"
@@ -25,4 +26,4 @@
       "description": "建築術語庫，包含建築設計、施工、材料等相關術語的中文翻譯。"
     }
   }
-} 
+}

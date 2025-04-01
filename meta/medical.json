@@ -4,7 +4,8 @@
   "description": "医疗术语库，包含疾病、治疗、药物等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "medical",
-  "langs": [
+  "suffix": "v1",
+"langs": [
     "zh-CN",
     "zh-TW"
   ],
