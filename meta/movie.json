@@ -5,7 +5,7 @@
   "author": "immersive",
   "glossary": "movie",
   "suffix": "v1",
-"langs": [
+  "langs": [
     "zh-CN",
     "zh-TW"
   ],
@@ -26,4 +26,4 @@
       "description": "電影術語庫，包含電影類型、製作、放映等相關術語的中文翻譯。"
     }
   }
-} 
+}

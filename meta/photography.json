@@ -5,7 +5,7 @@
   "author": "immersive",
   "glossary": "photography",
   "suffix": "v1",
-"langs": [
+  "langs": [
     "zh-CN",
     "zh-TW"
   ],
@@ -26,4 +26,4 @@
       "description": "攝影術語庫，包含相機、鏡頭、拍攝等相關術語的中文翻譯。"
     }
   }
-} 
+}

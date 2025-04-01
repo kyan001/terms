@@ -5,7 +5,7 @@
   "author": "immersive",
   "glossary": "twitter",
   "suffix": "v1",
-"langs": [
+  "langs": [
     "zh-CN",
     "zh-TW"
   ],
@@ -23,4 +23,4 @@
       "description": "推特術語庫，包含名人等相關術語的中文翻譯。"
     }
   }
-} 
+}

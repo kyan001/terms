@@ -5,7 +5,7 @@
   "author": "immersive",
   "glossary": "web3",
   "suffix": "v1",
-"langs": [
+  "langs": [
     "zh-CN",
     "zh-TW"
   ],
@@ -25,4 +25,4 @@
       "description": "專門翻譯與Web3和區塊鏈相關的內容，確保加密貨幣、DeFi、NFT和區塊鏈技術術語的準確與地道翻譯。"
     }
   }
-} 
+}

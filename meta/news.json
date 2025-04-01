@@ -5,7 +5,7 @@
   "author": "immersive",
   "glossary": "news",
   "suffix": "v1",
-"langs": [
+  "langs": [
     "zh-CN",
     "zh-TW"
   ],
@@ -30,4 +30,4 @@
       "description": "專門翻譯新聞媒體相關內容，確保新聞文章、報導和媒體相關內容的準確與地道翻譯。"
     }
   }
-} 
+}

@@ -5,7 +5,7 @@
   "author": "immersive",
   "glossary": "music",
   "suffix": "v1",
-"langs": [
+  "langs": [
     "zh-CN",
     "zh-TW"
   ],
@@ -26,4 +26,4 @@
       "description": "音樂術語庫，包含樂器、樂理、演奏等相關術語的中文翻譯。"
     }
   }
-} 
+}

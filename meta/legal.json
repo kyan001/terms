@@ -5,7 +5,7 @@
   "author": "immersive",
   "glossary": "legal",
   "suffix": "v1",
-"langs": [
+  "langs": [
     "zh-CN",
     "zh-TW"
   ],
@@ -26,4 +26,4 @@
       "description": "法律術語庫，包含法律概念、程序、文件等相關術語的中文翻譯。"
     }
   }
-} 
+}

@@ -5,7 +5,7 @@
   "author": "immersive",
   "glossary": "pet",
   "suffix": "v1",
-"langs": [
+  "langs": [
     "zh-CN",
     "zh-TW"
   ],
@@ -26,4 +26,4 @@
       "description": "寵物術語庫，包含寵物品種、護理、訓練等相關術語的中文翻譯。"
     }
   }
-} 
+}

@@ -5,7 +5,7 @@
   "author": "immersive",
   "glossary": "medical",
   "suffix": "v1",
-"langs": [
+  "langs": [
     "zh-CN",
     "zh-TW"
   ],
@@ -26,4 +26,4 @@
       "description": "醫療術語庫，包含疾病、治療、藥物等相關術語的中文翻譯。"
     }
   }
-} 
+}

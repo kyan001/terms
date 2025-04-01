@@ -5,7 +5,7 @@
   "author": "immersive",
   "glossary": "tech",
   "suffix": "v1",
-"langs": [
+  "langs": [
     "zh-CN",
     "zh-TW"
   ],
@@ -25,4 +25,4 @@
       "description": "專門翻譯與科技相關的內容，確保技術文檔、軟體介面和IT術語的準確與地道翻譯。"
     }
   }
-} 
+}

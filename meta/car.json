@@ -1,9 +1,9 @@
 {
-  "id": "auto",
-  "name": "Auto Expert",
+  "id": "car",
+  "name": "Car Expert",
   "description": "Specialized in translating automotive-related content, ensuring accurate and idiomatic translations for car terms, parts, technology, and automotive-related content.",
   "author": "immersive",
-  "glossary": "auto",
+  "glossary": "car",
   "suffix": "v1",
   "langs": [
     "zh-CN",
