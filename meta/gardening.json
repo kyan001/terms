@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.gardeners.com/*",
-    "https://www.burpee.com/*",
-    "https://www.garden.org/*",
-    "https://www.rhs.org.uk/*",
-    "https://www.gardeningknowhow.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "园艺",

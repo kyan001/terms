@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.tripadvisor.com/*",
-    "https://www.lonelyplanet.com/*",
-    "https://www.booking.com/*",
-    "https://www.expedia.com/*",
-    "https://www.airbnb.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "旅游",

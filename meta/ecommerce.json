@@ -9,16 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.amazon.com/*",
-    "https://www.ebay.com/*",
-    "https://www.alibaba.com/*",
-    "https://www.aliexpress.com/*",
-    "https://www.walmart.com/*",
-    "https://www.target.com/*",
-    "https://www.shopify.com/*",
-    "https://www.etsy.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "电商",

@@ -9,10 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://twitter.com/*",
-    "https://x.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "推特",

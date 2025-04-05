@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.dpreview.com/*",
-    "https://photographylife.com/*",
-    "https://www.fujifilm.com/*",
-    "https://www.sony.com/*",
-    "https://www.nikon.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "摄影",

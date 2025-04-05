@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.investopedia.com/*",
-    "https://www.bloomberg.com/*",
-    "https://www.reuters.com/*",
-    "https://www.wsj.com/*",
-    "https://www.ft.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "金融",

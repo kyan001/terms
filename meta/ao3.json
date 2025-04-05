@@ -9,10 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://archiveofourown.org/*",
-    "https://ao3.org/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "AO3",

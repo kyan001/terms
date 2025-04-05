@@ -9,12 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://ethereum.org/*",
-    "https://bitcoin.org/*",
-    "https://docs.soliditylang.org/*",
-    "https://docs.openzeppelin.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "Web3",

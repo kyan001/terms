@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.webmd.com/*",
-    "https://www.mayoclinic.org/*",
-    "https://www.medlineplus.gov/*",
-    "https://www.healthline.com/*",
-    "https://www.medicalnewstoday.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "医疗",

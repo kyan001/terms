@@ -9,17 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.bloomberg.com/*",
-    "https://www.reuters.com/*",
-    "https://www.wsj.com/*",
-    "https://www.ft.com/*",
-    "https://www.cnbc.com/*",
-    "https://www.bbc.com/*",
-    "https://www.cnn.com/*",
-    "https://www.nytimes.com/*",
-    "https://www.washingtonpost.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "新闻媒体",

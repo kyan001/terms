@@ -9,12 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://github.com/*",
-    "https://docs.microsoft.com/*",
-    "https://developer.apple.com/*",
-    "https://developer.android.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "科技",

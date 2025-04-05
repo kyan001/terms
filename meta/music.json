@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.musicradar.com/*",
-    "https://www.soundonsound.com/*",
-    "https://www.allmusic.com/*",
-    "https://pitchfork.com/*",
-    "https://www.rollingstone.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "音乐",

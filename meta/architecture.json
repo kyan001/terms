@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.archdaily.com/*",
-    "https://www.dezeen.com/*",
-    "https://www.architecturaldigest.com/*",
-    "https://www.archinect.com/*",
-    "https://www.worldarchitecture.org/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "建筑",

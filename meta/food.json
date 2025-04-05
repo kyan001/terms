@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.foodnetwork.com/*",
-    "https://www.allrecipes.com/*",
-    "https://www.epicurious.com/*",
-    "https://www.bonappetit.com/*",
-    "https://www.saveur.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "美食",

@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.petmd.com/*",
-    "https://www.akc.org/*",
-    "https://www.aspca.org/*",
-    "https://www.petsmart.com/*",
-    "https://www.petco.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "宠物",

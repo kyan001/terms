@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.pgatour.com/*",
-    "https://www.lpga.com/*",
-    "https://www.golfdigest.com/*",
-    "https://www.golf.com/*",
-    "https://www.golfchannel.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "高尔夫",

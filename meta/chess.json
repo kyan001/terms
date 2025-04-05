@@ -9,10 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.chess.com/*",
-    "https://lichess.org/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "国际象棋",

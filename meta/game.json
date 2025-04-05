@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.steam.com/*",
-    "https://www.epicgames.com/*",
-    "https://www.nintendo.com/*",
-    "https://www.playstation.com/*",
-    "https://www.xbox.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "游戏",

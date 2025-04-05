@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.vogue.com/*",
-    "https://www.elle.com/*",
-    "https://www.harpersbazaar.com/*",
-    "https://www.wwd.com/*",
-    "https://www.businessoffashion.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "时尚",

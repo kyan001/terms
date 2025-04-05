@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.education.com/*",
-    "https://www.edweek.org/*",
-    "https://www.insidehighered.com/*",
-    "https://www.chronicle.com/*",
-    "https://www.tes.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "教育",

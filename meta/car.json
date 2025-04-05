@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.autoblog.com/*",
-    "https://www.caranddriver.com/*",
-    "https://www.motortrend.com/*",
-    "https://www.topgear.com/*",
-    "https://www.autonews.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "汽车",

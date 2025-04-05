@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.imdb.com/*",
-    "https://www.rottentomatoes.com/*",
-    "https://www.metacritic.com/*",
-    "https://www.boxofficemojo.com/*",
-    "https://www.variety.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "电影",

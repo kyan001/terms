@@ -9,13 +9,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "matches": [
-    "https://www.law.com/*",
-    "https://www.legalzoom.com/*",
-    "https://www.findlaw.com/*",
-    "https://www.avvo.com/*",
-    "https://www.justia.com/*"
-  ],
   "i18ns": {
     "zh-CN": {
       "name": "法律",
