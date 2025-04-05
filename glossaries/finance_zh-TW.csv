@@ -1,0 +1,74 @@
+source,target,tgt_lng
+Stock,股票,zh-TW
+Bond,債券,zh-TW
+Fund,基金,zh-TW
+ETF,交易所交易基金,zh-TW
+Index,指數,zh-TW
+Market,市場,zh-TW
+Exchange,交易所,zh-TW
+Trading,交易,zh-TW
+Investment,投資,zh-TW
+Portfolio,投資組合,zh-TW
+Asset,資產,zh-TW
+Liability,負債,zh-TW
+Equity,權益,zh-TW
+Debt,債務,zh-TW
+Interest,利息,zh-TW
+Dividend,股息,zh-TW
+Yield,收益率,zh-TW
+Return,報酬,zh-TW
+Risk,風險,zh-TW
+Volatility,波動性,zh-TW
+Price,價格,zh-TW
+Value,價值,zh-TW
+Capital,資本,zh-TW
+Revenue,收入,zh-TW
+Profit,利潤,zh-TW
+Loss,虧損,zh-TW
+Margin,保證金,zh-TW
+Leverage,槓桿,zh-TW
+Short,放空,zh-TW
+Long,做多,zh-TW
+Bull,看漲,zh-TW
+Bear,看跌,zh-TW
+Option,選擇權,zh-TW
+Future,期貨,zh-TW
+Derivative,衍生性商品,zh-TW
+Hedge,避險,zh-TW
+Speculation,投機,zh-TW
+Arbitrage,套利,zh-TW
+Spread,價差,zh-TW
+Commission,佣金,zh-TW
+Fee,費用,zh-TW
+Tax,稅收,zh-TW
+Regulation,監管,zh-TW
+Compliance,合規,zh-TW
+Audit,審計,zh-TW
+Report,報告,zh-TW
+Statement,報表,zh-TW
+Balance sheet,資產負債表,zh-TW
+Income statement,損益表,zh-TW
+Cash flow,現金流量,zh-TW
+Ratio,比率,zh-TW
+PE ratio,本益比,zh-TW
+PB ratio,股價淨值比,zh-TW
+ROE,股東權益報酬率,zh-TW
+ROA,總資產報酬率,zh-TW
+EPS,每股盈餘,zh-TW
+IPO,首次公開募股,zh-TW
+M&A,併購,zh-TW
+Bankruptcy,破產,zh-TW
+Default,違約,zh-TW
+Credit,信用,zh-TW
+Rating,評級,zh-TW
+Currency,貨幣,zh-TW
+Exchange rate,匯率,zh-TW
+Inflation,通貨膨脹,zh-TW
+Deflation,通貨緊縮,zh-TW
+GDP,國內生產總值,zh-TW
+CPI,消費者物價指數,zh-TW
+Monetary policy,貨幣政策,zh-TW
+Fiscal policy,財政政策,zh-TW
+Central bank,中央銀行,zh-TW
+Reserve,準備金,zh-TW
+Interest rate,利率,zh-TW

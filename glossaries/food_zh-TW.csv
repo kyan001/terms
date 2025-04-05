@@ -1,0 +1,122 @@
+source,target,tgt_lng
+Cuisine,菜系,zh-TW
+Cooking,烹飪,zh-TW
+Baking,烘焙,zh-TW
+Grilling,燒烤,zh-TW
+Frying,煎炸,zh-TW
+Steaming,蒸煮,zh-TW
+Boiling,煮沸,zh-TW
+Simmering,燉煮,zh-TW
+Roasting,烤製,zh-TW
+Braising,燉煮,zh-TW
+Sautéing,煎炒,zh-TW
+Stir-frying,炒,zh-TW
+Deep-frying,油炸,zh-TW
+Pan-frying,煎,zh-TW
+Poaching,水煮,zh-TW
+Blanching,焯水,zh-TW
+Marinating,醃製,zh-TW
+Seasoning,調味,zh-TW
+Garnishing,裝飾,zh-TW
+Plating,擺盤,zh-TW
+Recipe,食譜,zh-TW
+Ingredient,食材,zh-TW
+Spice,香料,zh-TW
+Herb,香草,zh-TW
+Condiment,調味品,zh-TW
+Sauce,醬汁,zh-TW
+Dressing,沙拉醬,zh-TW
+Marinade,醃料,zh-TW
+Stock,高湯,zh-TW
+Broth,清湯,zh-TW
+Consommé,清湯,zh-TW
+Soup,湯,zh-TW
+Appetizer,開胃菜,zh-TW
+Entrée,主菜,zh-TW
+Side dish,配菜,zh-TW
+Dessert,甜點,zh-TW
+Beverage,飲品,zh-TW
+Wine,葡萄酒,zh-TW
+Beer,啤酒,zh-TW
+Cocktail,雞尾酒,zh-TW
+Coffee,咖啡,zh-TW
+Tea,茶,zh-TW
+Juice,果汁,zh-TW
+Smoothie,冰沙,zh-TW
+Restaurant,餐廳,zh-TW
+Café,咖啡館,zh-TW
+Bistro,小酒館,zh-TW
+Bar,酒吧,zh-TW
+Buffet,自助餐,zh-TW
+Takeout,外帶,zh-TW
+Delivery,外送,zh-TW
+Reservation,預訂,zh-TW
+Menu,菜單,zh-TW
+Special,特色菜,zh-TW
+Daily special,每日特價,zh-TW
+Chef's special,主廚特選,zh-TW
+Chef,主廚,zh-TW
+Sous chef,副主廚,zh-TW
+Line cook,廚師,zh-TW
+Pastry chef,甜點師,zh-TW
+Kitchen,廚房,zh-TW
+Prep area,準備區,zh-TW
+Station,工作站,zh-TW
+Equipment,設備,zh-TW
+Utensil,廚具,zh-TW
+Knife,刀,zh-TW
+Pan,鍋,zh-TW
+Pot,鍋,zh-TW
+Wok,炒鍋,zh-TW
+Oven,烤箱,zh-TW
+Stove,爐灶,zh-TW
+Grill,烤架,zh-TW
+Microwave,微波爐,zh-TW
+Blender,攪拌機,zh-TW
+Food processor,食物處理器,zh-TW
+Mixer,攪拌器,zh-TW
+Scale,秤,zh-TW
+Thermometer,溫度計,zh-TW
+Timer,計時器,zh-TW
+Cutting board,砧板,zh-TW
+Colander,濾網,zh-TW
+Strainer,濾網,zh-TW
+Whisk,打蛋器,zh-TW
+Spatula,鏟子,zh-TW
+Ladle,湯勺,zh-TW
+Tongs,夾子,zh-TW
+Peeler,削皮器,zh-TW
+Grater,擦絲器,zh-TW
+Zester,刨絲器,zh-TW
+Meat,肉類,zh-TW
+Beef,牛肉,zh-TW
+Pork,豬肉,zh-TW
+Lamb,羊肉,zh-TW
+Chicken,雞肉,zh-TW
+Duck,鴨肉,zh-TW
+Fish,魚,zh-TW
+Seafood,海鮮,zh-TW
+Vegetable,蔬菜,zh-TW
+Fruit,水果,zh-TW
+Grain,穀物,zh-TW
+Rice,米飯,zh-TW
+Noodle,麵條,zh-TW
+Pasta,義大利麵,zh-TW
+Bread,麵包,zh-TW
+Dairy,乳製品,zh-TW
+Egg,雞蛋,zh-TW
+Cheese,起司,zh-TW
+Milk,牛奶,zh-TW
+Cream,奶油,zh-TW
+Butter,奶油,zh-TW
+Yogurt,優格,zh-TW
+Oil,油,zh-TW
+Vinegar,醋,zh-TW
+Salt,鹽,zh-TW
+Pepper,胡椒,zh-TW
+Sugar,糖,zh-TW
+Honey,蜂蜜,zh-TW
+Flour,麵粉,zh-TW
+Baking powder,泡打粉,zh-TW
+Baking soda,小蘇打,zh-TW
+Yeast,酵母,zh-TW

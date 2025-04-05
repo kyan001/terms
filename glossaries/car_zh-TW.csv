@@ -1,0 +1,99 @@
+source,target,tgt_lng
+Car,汽車,zh-TW
+Automobile,汽車,zh-TW
+Vehicle,車輛,zh-TW
+Sedan,轎車,zh-TW
+SUV,運動型多用途車,zh-TW
+Crossover,跨界車,zh-TW
+Hatchback,掀背車,zh-TW
+Wagon,旅行車,zh-TW
+Van,廂式貨車,zh-TW
+Truck,卡車,zh-TW
+Pickup,皮卡,zh-TW
+Sports car,跑車,zh-TW
+Luxury car,豪華車,zh-TW
+Electric car,電動汽車,zh-TW
+Hybrid car,混合動力車,zh-TW
+Plug-in hybrid,插電式混合動力車,zh-TW
+Self-driving car,自動駕駛汽車,zh-TW
+Autonomous vehicle,自動駕駛車輛,zh-TW
+Engine,引擎,zh-TW
+Transmission,變速箱,zh-TW
+Gearbox,變速箱,zh-TW
+Manual transmission,手動變速箱,zh-TW
+Automatic transmission,自動變速箱,zh-TW
+CVT,無段變速箱,zh-TW
+DCT,雙離合變速箱,zh-TW
+Drivetrain,傳動系統,zh-TW
+Front-wheel drive,前輪驅動,zh-TW
+Rear-wheel drive,後輪驅動,zh-TW
+All-wheel drive,全輪驅動,zh-TW
+Four-wheel drive,四輪驅動,zh-TW
+Suspension,懸吊系統,zh-TW
+Brake system,制動系統,zh-TW
+ABS,防鎖死煞車系統,zh-TW
+ESP,電子穩定程式,zh-TW
+Traction control,循跡控制,zh-TW
+Airbag,安全氣囊,zh-TW
+Seat belt,安全帶,zh-TW
+Steering wheel,方向盤,zh-TW
+Dashboard,儀表板,zh-TW
+Instrument cluster,儀表組,zh-TW
+Speedometer,速度表,zh-TW
+Tachometer,轉速表,zh-TW
+Fuel gauge,燃油表,zh-TW
+Temperature gauge,溫度表,zh-TW
+Oil pressure gauge,機油壓力表,zh-TW
+Headlight,頭燈,zh-TW
+Taillight,尾燈,zh-TW
+Turn signal,方向燈,zh-TW
+Fog light,霧燈,zh-TW
+Windshield,擋風玻璃,zh-TW
+Wiper,雨刷,zh-TW
+Mirror,後視鏡,zh-TW
+Side mirror,側視鏡,zh-TW
+Rearview mirror,後視鏡,zh-TW
+Door,車門,zh-TW
+Window,車窗,zh-TW
+Sunroof,天窗,zh-TW
+Trunk,行李廂,zh-TW
+Hood,引擎蓋,zh-TW
+Grille,水箱護罩,zh-TW
+Bumper,保險桿,zh-TW
+Fender,葉子板,zh-TW
+Wheel,車輪,zh-TW
+Tire,輪胎,zh-TW
+Rim,輪圈,zh-TW
+Hubcap,輪圈蓋,zh-TW
+Exhaust system,排氣系統,zh-TW
+Muffler,消音器,zh-TW
+Catalytic converter,觸媒轉換器,zh-TW
+Fuel system,燃油系統,zh-TW
+Fuel tank,油箱,zh-TW
+Fuel pump,燃油泵,zh-TW
+Fuel injector,噴油嘴,zh-TW
+Air filter,空氣濾清器,zh-TW
+Oil filter,機油濾清器,zh-TW
+Battery,電瓶,zh-TW
+Alternator,發電機,zh-TW
+Starter,起動馬達,zh-TW
+Radiator,水箱,zh-TW
+Cooling system,冷卻系統,zh-TW
+Heating system,暖氣系統,zh-TW
+Air conditioning,空調,zh-TW
+Climate control,恆溫空調,zh-TW
+Navigation system,導航系統,zh-TW
+GPS,全球定位系統,zh-TW
+Infotainment system,資訊娛樂系統,zh-TW
+Audio system,音響系統,zh-TW
+Bluetooth,藍牙,zh-TW
+USB port,USB插槽,zh-TW
+Auxiliary input,輔助輸入,zh-TW
+Cruise control,定速巡航,zh-TW
+Lane departure warning,車道偏離警示,zh-TW
+Blind spot monitoring,盲點偵測,zh-TW
+Parking assist,停車輔助,zh-TW
+Backup camera,倒車攝影機,zh-TW
+Keyless entry,免鑰匙進入,zh-TW
+Push start,一鍵啟動,zh-TW
+Remote start,遠端啟動,zh-TW

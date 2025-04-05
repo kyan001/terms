@@ -1,0 +1,99 @@
+source,target,tgt_lng
+Pet,寵物,zh-TW
+Animal,動物,zh-TW
+Dog,狗,zh-TW
+Cat,貓,zh-TW
+Bird,鳥,zh-TW
+Fish,魚,zh-TW
+Hamster,倉鼠,zh-TW
+Rabbit,兔子,zh-TW
+Guinea pig,天竺鼠,zh-TW
+Turtle,烏龜,zh-TW
+Lizard,蜥蜴,zh-TW
+Snake,蛇,zh-TW
+Parrot,鸚鵡,zh-TW
+Canary,金絲雀,zh-TW
+Goldfish,金魚,zh-TW
+Betta fish,鬥魚,zh-TW
+German Shepherd,德國牧羊犬,zh-TW
+Golden Retriever,黃金獵犬,zh-TW
+Labrador Retriever,拉布拉多獵犬,zh-TW
+Poodle,貴賓犬,zh-TW
+Persian cat,波斯貓,zh-TW
+Siamese cat,暹羅貓,zh-TW
+British Shorthair,英國短毛貓,zh-TW
+Maine Coon,緬因貓,zh-TW
+Breed,品種,zh-TW
+Purebred,純種,zh-TW
+Mixed breed,混種,zh-TW
+Pedigree,血統,zh-TW
+Puppy,小狗,zh-TW
+Kitten,小貓,zh-TW
+Adult,成年,zh-TW
+Senior,老年,zh-TW
+Male,公,zh-TW
+Female,母,zh-TW
+Neutered,絕育,zh-TW
+Spayed,絕育,zh-TW
+Vaccinated,已接種疫苗,zh-TW
+Microchipped,已植入晶片,zh-TW
+Collar,項圈,zh-TW
+Leash,牽繩,zh-TW
+Harness,胸背帶,zh-TW
+ID tag,身份牌,zh-TW
+Crate,籠子,zh-TW
+Kennel,狗舍,zh-TW
+Bed,床,zh-TW
+Blanket,毯子,zh-TW
+Toy,玩具,zh-TW
+Ball,球,zh-TW
+Bone,骨頭,zh-TW
+Treat,零食,zh-TW
+Food,食物,zh-TW
+Water,水,zh-TW
+Bowl,碗,zh-TW
+Feeder,餵食器,zh-TW
+Litter box,貓砂盆,zh-TW
+Litter,貓砂,zh-TW
+Grooming,美容,zh-TW
+Bath,洗澡,zh-TW
+Brush,刷子,zh-TW
+Comb,梳子,zh-TW
+Shampoo,洗髮精,zh-TW
+Conditioner,潤絲精,zh-TW
+Nail clipper,指甲剪,zh-TW
+Toothbrush,牙刷,zh-TW
+Toothpaste,牙膏,zh-TW
+Veterinarian,獸醫,zh-TW
+Vet clinic,獸醫診所,zh-TW
+Check-up,體檢,zh-TW
+Vaccination,疫苗接種,zh-TW
+Deworming,驅蟲,zh-TW
+Flea treatment,跳蚤治療,zh-TW
+Tick treatment,壁蝨治療,zh-TW
+Surgery,手術,zh-TW
+Medicine,藥物,zh-TW
+Antibiotic,抗生素,zh-TW
+Vitamin,維生素,zh-TW
+Supplement,補充劑,zh-TW
+First aid kit,急救包,zh-TW
+Bandage,繃帶,zh-TW
+Antiseptic,消毒劑,zh-TW
+Training,訓練,zh-TW
+Obedience,服從,zh-TW
+Command,指令,zh-TW
+Sit,坐下,zh-TW
+Stay,等待,zh-TW
+Come,過來,zh-TW
+Down,趴下,zh-TW
+Heel,隨行,zh-TW
+Walk,散步,zh-TW
+Run,奔跑,zh-TW
+Play,玩耍,zh-TW
+Fetch,接球,zh-TW
+Behavior,行為,zh-TW
+Personality,性格,zh-TW
+Temperament,性情,zh-TW
+Socialization,社交,zh-TW
+Exercise,運動,zh-TW
+Activity,活動,zh-TW
