@@ -1,0 +1,22 @@
+{
+    "id": "default",
+    "name": "Default",
+    "description": "Default glossary",
+    "author": "self",
+    "glossary": "default",
+    "suffix": "v1",
+    "langs": [
+        "zh-CN",
+        "zh-TW"
+    ],
+    "i18ns": {
+        "zh-CN": {
+            "name": "默认",
+            "description": "默认术语库"
+        },
+        "zh-TW": {
+            "name": "預設",
+            "description": "預設術語庫"
+        }
+    }
+}
