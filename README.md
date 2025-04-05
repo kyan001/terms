@@ -10,9 +10,9 @@
 graph LR
     A[Fork 本仓库] --> B(基于 main 分支创建新的 Feature Branch);
     B --> C{修改/添加文件};
-    C -- 修改术语 --> D[修改 glossaries/[meta_name]_[lang].csv];
-    C -- 添加新语言翻译 --> E[修改 meta/[meta_name].json 和 创建 glossaries/[meta_name]_[new_lang].csv];
-    C -- 添加新术语库 --> F[创建 meta/[new_meta_name].json 和 glossaries/[new_meta_name]_[lang].csv];
+    C -- 修改术语 --> D["修改 glossaries/[meta_name]_[lang].csv"];
+    C -- 添加新语言翻译 --> E["修改 meta/[meta_name].json 和 创建 glossaries/[meta_name]_[new_lang].csv"];
+    C -- 添加新术语库 --> F["创建 meta/[new_meta_name].json 和 glossaries/[new_meta_name]_[lang].csv"];
     D --> G[Commit 修改];
     E --> G;
     F --> G;
