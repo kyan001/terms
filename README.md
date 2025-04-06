@@ -132,11 +132,11 @@ Token,代币,
   "i18ns": {
     "zh-CN": {
       "name": "Web3",
-      "description": "专门翻译与Web3和区块链相关的内容..."
+      "description": "Web3术语库，包含加密货币、DeFi、NFT和区块链技术相关术语的中文翻译。"
     },
     "zh-TW": {
       "name": "Web3",
-      "description": "專門翻譯與Web3和區塊鏈相關的內容..."
+      "description": "Web3術語庫，包含加密貨幣、DeFi、NFT和區塊鏈技術相關術語的繁體中文翻譯。"
     }
   }
 }
