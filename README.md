@@ -123,8 +123,7 @@ Token,代币,
   "description": "Specialized in translating Web3 and blockchain content...",
   "author": "immersive",
   "glossary": "web3",
-  "suffix": "v1",
-  "langs": [
+ "langs": [
     "zh-CN",
     "zh-TW",
     "auto"

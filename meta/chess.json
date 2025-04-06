@@ -4,7 +4,6 @@
   "description": "Specialized in translating chess-related content, ensuring accurate and idiomatic translations for chess.com articles and terminology.",
   "author": "immersive",
   "glossary": "chess",
-  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"

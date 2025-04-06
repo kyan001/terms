@@ -4,7 +4,6 @@
   "description": "法律术语库，包含法律概念、程序、文件等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "legal",
-  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"

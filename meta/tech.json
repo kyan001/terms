@@ -4,7 +4,6 @@
   "description": "Specialized in translating technology-related content, ensuring accurate and idiomatic translations for technical documentation, software interfaces, and IT terminology.",
   "author": "immersive",
   "glossary": "tech",
-  "suffix": "v2",
   "langs": [
     "auto",
     "zh-CN",

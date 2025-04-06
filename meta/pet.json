@@ -4,7 +4,6 @@
   "description": "宠物术语库，包含宠物种类、护理、训练等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "pet",
-  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"

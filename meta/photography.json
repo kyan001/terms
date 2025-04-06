@@ -4,7 +4,6 @@
   "description": "摄影术语库，包含相机、镜头、拍摄等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "photography",
-  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"

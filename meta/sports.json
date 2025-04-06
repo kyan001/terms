@@ -4,7 +4,6 @@
   "description": "体育术语库，包含运动项目、规则、装备等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "sports",
-  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"

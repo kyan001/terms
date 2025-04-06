@@ -4,7 +4,6 @@
   "description": "园艺术语库，包含植物、工具、技术等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "gardening",
-  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"

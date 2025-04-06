@@ -4,7 +4,6 @@
   "description": "游戏术语库，包含游戏类型、玩法、设备等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "game",
-  "suffix": "v1",
   "langs": [
     "auto",
     "zh-CN",

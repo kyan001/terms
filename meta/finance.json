@@ -4,7 +4,6 @@
   "description": "金融术语库，包含投资、交易、市场等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "finance",
-  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"

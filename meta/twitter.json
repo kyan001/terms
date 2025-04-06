@@ -4,7 +4,6 @@
   "description": "推特术语库，包含名人等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "twitter",
-  "suffix": "v2",
   "langs": [
     "zh-CN",
     "zh-TW"

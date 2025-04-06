@@ -4,7 +4,6 @@
   "description": "音乐术语库，包含乐器、乐理、演奏等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "music",
-  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"
