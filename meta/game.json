@@ -6,6 +6,7 @@
   "glossary": "game",
   "suffix": "v1",
   "langs": [
+    "auto",
     "zh-CN",
     "zh-TW"
   ],

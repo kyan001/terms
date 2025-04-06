@@ -22,6 +22,8 @@ graph LR
     I -- 不通过 --> C;
 ```
 
+注意：对于添加适配所有语言的情况（`auto`），应在 `langs` 数组中添加 `"auto"`，并创建 `glossaries/[meta_name].csv` 文件（不带语言后缀）。
+
 1.  **Fork** 本仓库到你的 GitHub 账户。
 2.  从 `main` 分支创建一个新的 **Feature Branch**，例如 `feature/add-tech-korean` 或 `fix/update-web3-terms`。
 3.  在你的 Feature Branch 中进行修改或添加文件。
@@ -35,22 +37,26 @@ graph LR
 术语库主要由两部分组成：
 
 *   `meta/` 目录：存放术语库的元数据文件（JSON 格式）。每个文件（例如 `web3.json`）定义了一个术语库，我们称文件名为 `meta_name` （例如 `web3`）。
-*   `glossaries/` 目录：存放实际的术语翻译对（CSV 格式）。文件名遵循 `[meta_name]_[lang].csv` 规则，例如 `web3_zh-CN.csv` 对应 `meta/web3.json` 的简体中文术语。
+*   `glossaries/` 目录：存放实际的术语翻译对（CSV 格式）。文件名遵循 `[meta_name]_[lang].csv` 规则，例如 `web3_zh-CN.csv` 对应 `meta/web3.json` 的简体中文术语。若 `meta.json` 中的 `langs` 包含 `"auto"`，则对应的 CSV 文件命名为 `[meta_name].csv`（不带语言后缀），表示该术语适配任何目标语言。
 
 ## 如何添加或修改术语
 
 ### 修改现有术语
 
-直接编辑对应的 `glossaries/[meta_name]_[lang].csv` 文件，修改 `source` 或 `target` 列的内容。
+直接编辑对应的 `glossaries/[meta_name]_[lang].csv` 文件或 `glossaries/[meta_name].csv` 文件（适用于 `auto` 语言），修改 `source` 或 `target` 列的内容。
 
 ### 添加新的语言翻译
 
 1.  打开对应的 `meta/[meta_name].json` 文件。
-2.  将新的语言代码（例如 `ko`）添加到 `langs` 数组中。
-3.  在 `i18ns` 对象中，为新的语言代码添加对应的 `name` 和 `description` 翻译。
-4.  在 `glossaries/` 目录下，创建新的 CSV 文件，命名为 `[meta_name]_[new_lang].csv` （例如 `web3_ko.csv`）。
-5.  将现有的一种语言的 CSV 文件（例如 `glossaries/web3_en.csv`）内容复制到新文件中作为模板。
-6.  修改新文件，将 `target` 列翻译成新的目标语言，并将 `tgt_lng` 列的值更新为新的语言代码。
+2.  将新的语言代码（例如 `ko`）添加到 `langs` 数组中。若要添加适配所有语言的支持，则添加 `"auto"` 到 `langs` 数组。
+3.  在 `i18ns` 对象中，为新的语言代码添加对应的 `name` 和 `description` 翻译。注意：`auto` 不需要在 `i18ns` 对象中添加条目。
+4.  在 `glossaries/` 目录下，创建新的 CSV 文件：
+    - 对于特定语言，命名为 `[meta_name]_[new_lang].csv`（例如 `web3_ko.csv`）
+    - 对于适配所有语言的情况，命名为 `[meta_name].csv`（例如 `web3.csv`）
+5.  将现有的一种语言的 CSV 文件内容复制到新文件中作为模板。
+6.  修改新文件，将 `target` 列翻译成新的目标语言，并将 `tgt_lng` 列更新：
+    - 对于特定语言，更新为对应的语言代码
+    - 对于适配所有语言的情况（`auto`），将 `tgt_lng` 列设置为空字符串 `""`
 
 ### 添加新的术语库
 
@@ -59,14 +65,16 @@ graph LR
 3.  在 `glossaries/` 目录下，为新术语库创建一个或多个 CSV 文件，例如 `glossaries/mynewglossary_en.csv`。
 4.  按照 CSV 文件格式要求，在新文件中添加术语对。
 
-## CSV 文件格式 (`glossaries/[meta_name]_[lang].csv`)
+## CSV 文件格式
 
 *   文件编码：UTF-8。
 *   使用逗号 (`,`) 作为分隔符。
 *   第一行为表头，必须包含以下三列：`source,target,tgt_lng`。
 *   **`source`**: 源语言术语文本。
 *   **`target`**: 目标语言术语的翻译文本。
-*   **`tgt_lng`**: 该 CSV 文件对应的目标语言代码（与文件名中的 `[lang]` 部分以及 `meta.json` 中 `langs` 数组内的代码一致）。
+*   **`tgt_lng`**: 该 CSV 文件对应的目标语言代码。
+    - 对于特定语言文件（`[meta_name]_[lang].csv`），值应与文件名中的 `[lang]` 部分以及 `meta.json` 中 `langs` 数组内的代码一致。
+    - 对于适配所有语言的文件（`[meta_name].csv`），该值应为空字符串 `""`。
 
 **示例 (`glossaries/web3_zh-CN.csv`):**
 
@@ -75,6 +83,16 @@ source,target,tgt_lng
 Blockchain,区块链,zh-CN
 Cryptocurrency,加密货币,zh-CN
 Token,代币,zh-CN
+...
+```
+
+**示例 (`glossaries/web3.csv`):**
+
+```csv
+source,target,tgt_lng
+Blockchain,区块链,
+Cryptocurrency,加密货币,
+Token,代币,
 ...
 ```
 
@@ -90,7 +108,7 @@ Token,代币,zh-CN
 *   `author` (string): 术语库的作者或来源标识。
 *   `glossary` (string): 关联的基础术语库名称，应与 `id` 和文件名 (`meta_name`) 保持一致。
 *   `suffix` (string, 可选): 版本或其他后缀信息。
-*   `langs` (array of strings): 此术语库支持的目标语言代码列表 (例如 `["zh-CN", "zh-TW", "en"]`)。
+*   `langs` (array of strings): 此术语库支持的目标语言代码列表 (例如 `["zh-CN", "zh-TW", "en"]`)。可以包含特殊值 `"auto"`，表示该术语库适配任何目标语言。
 *   `i18ns` (object): 包含各个支持语言的本地化信息。
     *   `[lang_code]` (object): 以语言代码作为键。
         *   `name` (string): 该语言下的术语库名称。
@@ -108,7 +126,8 @@ Token,代币,zh-CN
   "suffix": "v1",
   "langs": [
     "zh-CN",
-    "zh-TW"
+    "zh-TW",
+    "auto"
   ],
   "i18ns": {
     "zh-CN": {

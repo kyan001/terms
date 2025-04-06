@@ -5,7 +5,9 @@
     "author": "self",
     "glossary": "default",
     "suffix": "v1",
-    "langs": [],
+    "langs": [
+        "auto"
+    ],
     "i18ns": {
         "zh-CN": {
             "name": "默认",
