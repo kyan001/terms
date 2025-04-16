@@ -15,6 +15,10 @@
     "zh-TW": {
       "name": "預設",
       "description": "預設術語庫"
+    },
+    "en": {
+      "name": "Default",
+      "description": "Default glossary"
     }
   }
 }

@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "電商",
       "description": "電子商務術語庫，包含線上購物、產品列表和電商平台相關術語的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "E-commerce Expert",
+      "description": "Specialized in translating e-commerce content, ensuring accurate and idiomatic translations for online shopping, product listings, and e-commerce related content."
     }
   }
 }

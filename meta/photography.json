@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "攝影",
       "description": "攝影術語庫，包含相機、鏡頭、拍攝等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "Photography",
+      "description": "Photography glossary, containing Chinese translations of related terms such as cameras, lenses, and photography."
     }
   }
 }

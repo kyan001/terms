@@ -17,6 +17,10 @@
     "zh-TW": {
       "name": "遊戲",
       "description": "遊戲術語庫，包含遊戲類型、玩法、設備等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "Game",
+      "description": "Game glossary, containing Chinese translations of related terms such as game types, gameplay, and devices."
     }
   }
 }

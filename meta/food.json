@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "美食",
       "description": "美食術語庫，包含烹飪術語、食材、烹飪技巧相關術語的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "Food Expert",
+      "description": "Specialized in translating food-related content, ensuring accurate and idiomatic translations for culinary terms, ingredients, cooking techniques, and food-related content."
     }
   }
 }

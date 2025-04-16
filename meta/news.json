@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "新聞媒體",
       "description": "新聞媒體術語庫，包含新聞報導、媒體行業相關術語的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "News Media Expert",
+      "description": "Specialized in translating news media content, ensuring accurate and idiomatic translations for news articles, reports, and media-related content."
     }
   }
 }

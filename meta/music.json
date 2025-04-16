@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "音樂",
       "description": "音樂術語庫，包含樂器、樂理、演奏等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "Music",
+      "description": "Music glossary, containing Chinese translations of related terms such as instruments, music theory, and performance."
     }
   }
 }

@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "旅遊",
       "description": "旅遊術語庫，包含景點、住宿、交通等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "Travel",
+      "description": "Travel glossary, containing Chinese translations of related terms such as attractions, accommodations, and transportation."
     }
   }
 }

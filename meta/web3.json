@@ -17,6 +17,10 @@
     "zh-TW": {
       "name": "Web3",
       "description": "Web3術語庫，包含加密貨幣、DeFi、NFT和區塊鏈技術相關術語的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "Web3 Expert",
+      "description": "Specialized in translating Web3 and blockchain content, ensuring accurate and idiomatic translations for cryptocurrency, DeFi, NFT, and blockchain technology terminology."
     }
   }
 }

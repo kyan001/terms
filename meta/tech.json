@@ -17,6 +17,10 @@
     "zh-TW": {
       "name": "科技",
       "description": "科技術語庫，包含技術文檔、軟體介面和IT領域相關術語的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "Technology Expert",
+      "description": "Specialized in translating technology-related content, ensuring accurate and idiomatic translations for technical documentation, software interfaces, and IT terminology."
     }
   }
 }

@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "推特",
       "description": "推特術語庫，包含名人等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "Twitter",
+      "description": "Twitter glossary, containing Chinese translations of related terms such as celebrities and social media platforms."
     }
   }
 }

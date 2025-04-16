@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "AO3",
       "description": "AO3術語庫，包含同人小說、標籤、分級、警告等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "AO3",
+      "description": "AO3 glossary, containing Chinese translations of related terms such as fanfiction, tags, ratings, and warnings."
     }
   }
 }

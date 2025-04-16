@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "時尚",
       "description": "時尚術語庫，包含服裝、配飾和時尚產業相關術語的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "Fashion Expert",
+      "description": "Specialized in translating fashion-related content, ensuring accurate and idiomatic translations for fashion terms, clothing, accessories, and fashion-related content."
     }
   }
 }

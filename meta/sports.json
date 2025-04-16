@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "體育",
       "description": "體育術語庫，包含運動項目、規則、裝備等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "Sports",
+      "description": "Sports glossary, containing Chinese translations of related terms such as sports, rules, and equipment."
     }
   }
 }

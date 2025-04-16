@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "教育",
       "description": "教育術語庫，包含教學、學習、課程等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "Education",
+      "description": "Education glossary, containing Chinese translations of related terms such as teaching, learning, and courses."
     }
   }
 }

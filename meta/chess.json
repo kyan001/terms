@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "棋藝",
       "description": "國際象棋術語庫，包含棋類規則、戰術和比賽相關術語的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "Chess Expert",
+      "description": "Specialized in translating chess-related content, ensuring accurate and idiomatic translations for chess.com articles and terminology."
     }
   }
 }

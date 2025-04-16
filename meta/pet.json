@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "寵物",
       "description": "寵物術語庫，包含寵物品種、護理、訓練等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "Pet",
+      "description": "Pet glossary, containing Chinese translations of related terms such as pet types, care, and training."
     }
   }
 }

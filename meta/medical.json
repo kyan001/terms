@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "醫療",
       "description": "醫療術語庫，包含疾病、治療、藥物等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "Medical",
+      "description": "Medical glossary, containing Chinese translations of related terms such as diseases, treatments, and medications."
     }
   }
 }

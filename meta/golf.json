@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "高爾夫",
       "description": "高爾夫術語庫，包含高爾夫裝備、規則和比賽相關術語的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "Golf Expert",
+      "description": "Specialized in translating golf-related content, ensuring accurate and idiomatic translations for golf terms, equipment, rules, and golf-related content."
     }
   }
 }

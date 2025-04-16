@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "汽車",
       "description": "汽車術語庫，包含汽車零組件、技術和汽車工業相關術語的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "Car Expert",
+      "description": "Specialized in translating automotive-related content, ensuring accurate and idiomatic translations for car terms, parts, technology, and automotive-related content."
     }
   }
 }

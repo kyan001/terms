@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "金融",
       "description": "金融術語庫，包含投資、交易、市場等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "Finance",
+      "description": "Finance glossary, containing Chinese translations of related terms such as investment, trading, and market."
     }
   }
 }

@@ -16,6 +16,10 @@
     "zh-TW": {
       "name": "園藝",
       "description": "園藝術語庫，包含植物、工具、技術等相關術語的中文翻譯。"
+    },
+    "en": {
+      "name": "Gardening",
+      "description": "Gardening glossary, containing Chinese translations of related terms such as plants, tools, and techniques."
     }
   }
 }
