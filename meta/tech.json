@@ -38,6 +38,18 @@
       "name": "Experto en Tecnología",
       "description": "Especializado en la traducción de contenido relacionado con la tecnología, garantizando traducciones precisas e idiomáticas para documentación técnica, interfaces de software y terminología de TI."
     },
+    "fa": {
+        "name": "کارشناس فناوری",
+        "description": "متخصص در ترجمه محتوای مرتبط با فناوری، تضمین ترجمه‌های دقیق و اصطلاحی برای مستندات فنی، رابط‌های نرم‌افزاری و اصطلاحات فناوری اطلاعات."
+    },
+    "fr": {
+        "name": "Expert en technologie",
+        "description": "Spécialisé dans la traduction de contenu technologique, assurant des traductions précises et idiomatiques pour la documentation technique, les interfaces logicielles et la terminologie informatique."
+    },
+    "he": {
+        "name": "מומחה טכנולוגיה",
+        "description": "מתמחה בתרגום תוכן טכנולוגי, תוך הבטחת תרגומים מדויקים ואידיומטיים לתיעוד טכני, ממשקי תוכנה וטרמינולוגיה של IT."
+    },
     "hi": {
       "name": "प्रौद्योगिकी विशेषज्ञ",
       "description": "प्रौद्योगिकी-संबंधित सामग्री का अनुवाद करने में विशेषज्ञता, तकनीकी दस्तावेज़ीकरण, सॉफ्टवेयर इंटरफेस और आईटी शब्दावली के लिए सटीक और मुहावरेदार अनुवाद सुनिश्चित करना।"
@@ -49,6 +61,18 @@
     "it": {
       "name": "Esperto di Tecnologia",
       "description": "Specializzato nella traduzione di contenuti tecnologici, garantendo traduzioni accurate e idiomatiche per documentazione tecnica, interfacce software e terminologia IT."
+    },
+    "ru": {
+        "name": "Эксперт по технологиям",
+        "description": "Специализируется на переводе контента, связанного с технологиями, обеспечивая точные и идиоматические переводы для технической документации, программных интерфейсов и ИТ-терминологии."
+    },
+    "ko": {
+        "name": "기술 전문가",
+        "description": "기술 관련 콘텐츠 번역 전문가로서 기술 문서, 소프트웨어 인터페이스, IT 용어에 대한 정확하고 자연스러운 번역을 보장합니다."
+    },
+    "pt-PT": {
+        "name": "Especialista em Tecnologia",
+        "description": "Especializado na tradução de conteúdo relacionado à tecnologia, garantindo traduções precisas e idiomáticas para documentação técnica, interfaces de software e terminologia de TI."
     },
     "pt-BR": {
       "name": "Especialista em Tecnologia",

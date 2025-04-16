@@ -36,6 +36,18 @@
         "name": "Predeterminado",
         "description": "Glosario predeterminado"
     },
+    "fa": {
+        "name": "پیش‌فرض",
+        "description": "واژه‌نامه پیش‌فرض"
+    },
+    "fr": {
+        "name": "Défaut",
+        "description": "Glossaire par défaut"
+    },
+    "he": {
+        "name": "ברירת מחדל",
+        "description": "מילון מונחים ברירת מחדל"
+    },
     "hi": {
         "name": "डिफ़ॉल्ट",
         "description": "डिफ़ॉल्ट शब्दावली"
@@ -49,6 +61,18 @@
         "description": "Glossario predefinito"
     },
     "pt-BR": {
+        "name": "Padrão",
+        "description": "Glossário padrão"
+    },
+    "ru": {
+        "name": "По умолчанию",
+        "description": "Глоссарий по умолчанию"
+    },
+    "ko": {
+        "name": "기본값",
+        "description": "기본 용어집"
+    },
+    "pt-PT": {
         "name": "Padrão",
         "description": "Glossário padrão"
     },

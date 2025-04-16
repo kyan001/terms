@@ -38,6 +38,18 @@
       "name": "Juego",
       "description": "Glosario de Juego, que contiene traducciones al español de términos relacionados como tipos de juego, jugabilidad y dispositivos."
     },
+    "fa": {
+      "name": "بازی",
+      "description": "واژه‌نامه بازی، حاوی ترجمه‌های فارسی اصطلاحات مرتبط مانند انواع بازی، گیم‌پلی و دستگاه‌ها."
+    },
+    "fr": {
+      "name": "Jeu",
+      "description": "Glossaire de jeu, contenant des traductions en français de termes connexes tels que les types de jeu, le gameplay et les appareils."
+    },
+    "he": {
+      "name": "משחק",
+      "description": "מילון מונחי משחק, המכיל תרגומים לעברית של מונחים קשורים כגון סוגי משחקים, משחקיות ומכשירים."
+    },
     "hi": {
       "name": "खेल",
       "description": "खेल शब्दावली, जिसमें खेल के प्रकार, गेमप्ले और उपकरणों जैसे संबंधित शब्दों का हिंदी अनुवाद शामिल है।"
@@ -49,6 +61,18 @@
     "it": {
       "name": "Gioco",
       "description": "Glossario di Gioco, contenente traduzioni in italiano di termini correlati come tipi di gioco, gameplay e dispositivi."
+    },
+    "ru": {
+      "name": "Игра",
+      "description": "Игровой глоссарий, содержащий переводы на русский язык связанных терминов, таких как типы игр, игровой процесс и устройства."
+    },
+    "ko": {
+      "name": "게임",
+      "description": "게임 용어집, 게임 유형, 게임 플레이, 장치 등 관련 용어의 한국어 번역 포함."
+    },
+    "pt-PT": {
+      "name": "Jogo",
+      "description": "Glossário de Jogo, contendo traduções em português de termos relacionados, como tipos de jogo, jogabilidade e dispositivos."
     },
     "pt-BR": {
       "name": "Jogo",

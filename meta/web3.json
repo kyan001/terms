@@ -38,6 +38,18 @@
         "name": "Experto en Web3",
         "description": "Especializado en la traducción de contenido de Web3 y blockchain, garantizando traducciones precisas e idiomáticas para la terminología de criptomonedas, DeFi, NFT y tecnología blockchain."
     },
+    "fa": {
+        "name": "کارشناس وب۳",
+        "description": "متخصص در ترجمه محتوای وب۳ و بلاک‌چین، تضمین ترجمه‌های دقیق و اصطلاحی برای اصطلاحات ارزهای دیجیتال، دیفای، ان‌اف‌تی و فناوری بلاک‌چین."
+    },
+    "fr": {
+        "name": "Expert Web3",
+        "description": "Spécialisé dans la traduction de contenu Web3 et blockchain, assurant des traductions précises et idiomatiques pour la terminologie des cryptomonnaies, de la DeFi, des NFT et de la technologie blockchain."
+    },
+    "he": {
+        "name": "מומחה Web3",
+        "description": "מתמחה בתרגום תוכן Web3 ובלוקצ'יין, תוך הבטחת תרגומים מדויקים ואידיומטיים לטרמינולוגיה של מטבעות קריפטוגרפיים, DeFi, NFT וטכנולוגיית בלוקצ'יין."
+    },
     "hi": {
         "name": "Web3 विशेषज्ञ",
         "description": "Web3 और ब्लॉकचेन सामग्री का अनुवाद करने में विशेषज्ञता, क्रिप्टोकरेंसी, DeFi, NFT और ब्लॉकचेन प्रौद्योगिकी शब्दावली के लिए सटीक और मुहावरेदार अनुवाद सुनिश्चित करना।"
@@ -49,6 +61,18 @@
     "it": {
         "name": "Esperto Web3",
         "description": "Specializzato nella traduzione di contenuti Web3 e blockchain, garantendo traduzioni accurate e idiomatiche per la terminologia di criptovaluta, DeFi, NFT e tecnologia blockchain."
+    },
+    "ru": {
+        "name": "Эксперт Web3",
+        "description": "Специализируется на переводе контента Web3 и блокчейна, обеспечивая точные и идиоматические переводы для терминологии криптовалют, DeFi, NFT и технологии блокчейн."
+    },
+    "ko": {
+        "name": "Web3 전문가",
+        "description": "Web3 및 블록체인 콘텐츠 번역 전문가로서 암호화폐, DeFi, NFT, 블록체인 기술 용어에 대한 정확하고 자연스러운 번역을 보장합니다."
+    },
+    "pt-PT": {
+        "name": "Especialista em Web3",
+        "description": "Especializado na tradução de conteúdo Web3 e blockchain, garantindo traduções precisas e idiomáticas para terminologia de criptomoeda, DeFi, NFT e tecnologia blockchain."
     },
     "pt-BR": {
         "name": "Especialista em Web3",
