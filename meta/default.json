@@ -19,6 +19,42 @@
     "en": {
       "name": "Default",
       "description": "Default glossary"
+    },
+    "ja": {
+        "name": "デフォルト",
+        "description": "デフォルトの用語集"
+    },
+    "ar": {
+        "name": "افتراضي",
+        "description": "قائمة المصطلحات الافتراضية"
+    },
+    "de": {
+        "name": "Standard",
+        "description": "Standard-Glossar"
+    },
+    "es": {
+        "name": "Predeterminado",
+        "description": "Glosario predeterminado"
+    },
+    "hi": {
+        "name": "डिफ़ॉल्ट",
+        "description": "डिफ़ॉल्ट शब्दावली"
+    },
+    "hu": {
+        "name": "Alapértelmezett",
+        "description": "Alapértelmezett szószedet"
+    },
+    "it": {
+        "name": "Predefinito",
+        "description": "Glossario predefinito"
+    },
+    "pt-BR": {
+        "name": "Padrão",
+        "description": "Glossário padrão"
+    },
+    "tr": {
+        "name": "Varsayılan",
+        "description": "Varsayılan sözlük"
     }
   }
 }

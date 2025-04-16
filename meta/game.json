@@ -21,6 +21,42 @@
     "en": {
       "name": "Game",
       "description": "Game glossary, containing Chinese translations of related terms such as game types, gameplay, and devices."
+    },
+    "ja": {
+      "name": "ゲーム",
+      "description": "ゲーム術語庫，包含ゲームタイプ、プレイ方法、デバイス等相關術語の日本語翻訳。"
+    },
+    "ar": {
+      "name": "اللعبة",
+      "description": "لعبة مصطلحات تحتوي على ترجمات عربية للمصطلحات المتعلقة بأنواع الألعاب وطريقة اللعب والأجهزة."
+    },
+    "de": {
+      "name": "Spiel",
+      "description": "Spiel glossary, containing German translations of related terms such as game types, gameplay, and devices."
+    },
+    "es": {
+      "name": "Juego",
+      "description": "Glosario de Juego, que contiene traducciones al español de términos relacionados como tipos de juego, jugabilidad y dispositivos."
+    },
+    "hi": {
+      "name": "खेल",
+      "description": "खेल शब्दावली, जिसमें खेल के प्रकार, गेमप्ले और उपकरणों जैसे संबंधित शब्दों का हिंदी अनुवाद शामिल है।"
+    },
+    "hu": {
+      "name": "Játék",
+      "description": "Játék terminológiai tár, amely a játéktípusokkal, játékmenettel és eszközökkel kapcsolatos magyar fordításokat tartalmazza."
+    },
+    "it": {
+      "name": "Gioco",
+      "description": "Glossario di Gioco, contenente traduzioni in italiano di termini correlati come tipi di gioco, gameplay e dispositivi."
+    },
+    "pt-BR": {
+      "name": "Jogo",
+      "description": "Glossário de Jogos, contendo traduções em português brasileiro de termos relacionados, como tipos de jogo, jogabilidade e dispositivos."
+    },
+    "tr": {
+      "name": "Oyun",
+      "description": "Oyun terimleri sözlüğü, oyun türleri, oynanış ve cihazlar gibi ilgili terimlerin Türkçe çevirilerini içerir."
     }
   }
 }
