@@ -4,7 +4,6 @@
   "description": "AO3术语库，包含同人小说、标签、分级、警告等相关术语的中文翻译。",
   "author": "immersive",
   "glossary": "ao3",
-  "suffix": "v1",
   "langs": [
     "zh-CN",
     "zh-TW"
