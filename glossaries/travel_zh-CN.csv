@@ -1,13 +1,9 @@
 source,target,tgt_lng
-Travel,旅行,zh-CN
-Tourism,旅游,zh-CN
-Tourist,游客,zh-CN
 Tour guide,导游,zh-CN
 Tour operator,旅行社,zh-CN
 Travel agency,旅行社,zh-CN
 Tour package,旅游套餐,zh-CN
 Itinerary,行程,zh-CN
-Schedule,日程,zh-CN
 Destination,目的地,zh-CN
 Attraction,景点,zh-CN
 Scenic spot,景点,zh-CN
@@ -15,8 +11,6 @@ Landmark,地标,zh-CN
 Monument,纪念碑,zh-CN
 Museum,博物馆,zh-CN
 Gallery,美术馆,zh-CN
-Park,公园,zh-CN
-Garden,花园,zh-CN
 Temple,寺庙,zh-CN
 Church,教堂,zh-CN
 Mosque,清真寺,zh-CN
@@ -24,30 +18,12 @@ Palace,宫殿,zh-CN
 Castle,城堡,zh-CN
 Fortress,要塞,zh-CN
 Beach,海滩,zh-CN
-Mountain,山,zh-CN
-Lake,湖,zh-CN
-River,河,zh-CN
-Waterfall,瀑布,zh-CN
-Cave,洞穴,zh-CN
-Island,岛屿,zh-CN
-Peninsula,半岛,zh-CN
-Desert,沙漠,zh-CN
-Forest,森林,zh-CN
-Valley,山谷,zh-CN
-Canyon,峡谷,zh-CN
 Glacier,冰川,zh-CN
 Volcano,火山,zh-CN
 Accommodation,住宿,zh-CN
-Hotel,酒店,zh-CN
 Resort,度假村,zh-CN
 Hostel,青年旅舍,zh-CN
 Guesthouse,客栈,zh-CN
-Apartment,公寓,zh-CN
-Villa,别墅,zh-CN
-Cabin,小屋,zh-CN
-Camp,营地,zh-CN
-Room,房间,zh-CN
-Suite,套房,zh-CN
 Single room,单人间,zh-CN
 Double room,双人间,zh-CN
 Twin room,双床间,zh-CN
@@ -56,73 +32,26 @@ Family room,家庭房,zh-CN
 Deluxe room,豪华房,zh-CN
 Standard room,标准间,zh-CN
 Economy room,经济房,zh-CN
-Transportation,交通,zh-CN
-Airport,机场,zh-CN
 Airline,航空公司,zh-CN
 Flight,航班,zh-CN
-Airplane,飞机,zh-CN
-Train station,火车站,zh-CN
-Train,火车,zh-CN
-Bus station,汽车站,zh-CN
-Bus,公共汽车,zh-CN
 Metro,地铁,zh-CN
 Subway,地铁,zh-CN
-Taxi,出租车,zh-CN
 Car rental,租车,zh-CN
-Bicycle,自行车,zh-CN
 Ferry,渡轮,zh-CN
 Cruise,游轮,zh-CN
-Ticket,票,zh-CN
-Passport,护照,zh-CN
-Visa,签证,zh-CN
 Customs,海关,zh-CN
 Immigration,入境,zh-CN
-Currency,货币,zh-CN
 Exchange rate,汇率,zh-CN
-Cash,现金,zh-CN
-Credit card,信用卡,zh-CN
 Travel insurance,旅游保险,zh-CN
-Map,地图,zh-CN
 Guidebook,旅游指南,zh-CN
 Brochure,宣传册,zh-CN
 Souvenir,纪念品,zh-CN
 Gift shop,礼品店,zh-CN
-Restaurant,餐厅,zh-CN
-Cafe,咖啡馆,zh-CN
-Bar,酒吧,zh-CN
-Market,市场,zh-CN
-Shopping mall,购物中心,zh-CN
-Department store,百货公司,zh-CN
 Local food,当地美食,zh-CN
 Cuisine,菜系,zh-CN
 Dish,菜品,zh-CN
-Menu,菜单,zh-CN
-Reservation,预订,zh-CN
-Check-in,入住,zh-CN
-Check-out,退房,zh-CN
-Luggage,行李,zh-CN
-Baggage,行李,zh-CN
-Suitcase,行李箱,zh-CN
-Backpack,背包,zh-CN
-Camera,相机,zh-CN
 Passport photo,护照照片,zh-CN
 Travel adapter,旅行转换器,zh-CN
 First aid kit,急救包,zh-CN
 Sunscreen,防晒霜,zh-CN
 Insect repellent,驱虫剂,zh-CN
-Umbrella,雨伞,zh-CN
-Weather,天气,zh-CN
-Climate,气候,zh-CN
-Season,季节,zh-CN
-Spring,春天,zh-CN
-Summer,夏天,zh-CN
-Autumn,秋天,zh-CN
-Winter,冬天,zh-CN
-Rain,雨,zh-CN
-Snow,雪,zh-CN
-Sun,太阳,zh-CN
-Cloud,云,zh-CN
-Wind,风,zh-CN
-Temperature,温度,zh-CN
-Humidity,湿度,zh-CN
-Forecast,预报,zh-CN

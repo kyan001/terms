@@ -2,7 +2,6 @@ source,target,tgt_lng
 Golf,高爾夫,zh-TW
 Course,球場,zh-TW
 Club,球桿,zh-TW
-Ball,球,zh-TW
 Tee,發球台,zh-TW
 Fairway,球道,zh-TW
 Rough,長草區,zh-TW
@@ -25,11 +24,8 @@ Putter,推桿,zh-TW
 Wedge,挖起桿,zh-TW
 Hybrid,混合桿,zh-TW
 Shaft,桿身,zh-TW
-Grip,握把,zh-TW
-Head,桿頭,zh-TW
 Swing,揮桿,zh-TW
 Stance,站姿,zh-TW
-Grip,握桿,zh-TW
 Backswing,上桿,zh-TW
 Downswing,下桿,zh-TW
 Follow-through,收桿,zh-TW
@@ -41,22 +37,16 @@ Shank,剃頭球,zh-TW
 Whiff,空揮,zh-TW
 Mulligan,重打,zh-TW
 Handicap,差點,zh-TW
-Score,分數,zh-TW
-Round,輪次,zh-TW
-Tournament,比賽,zh-TW
-Match,比賽,zh-TW
 Stroke play,比桿賽,zh-TW
 Match play,比洞賽,zh-TW
 Caddie,球童,zh-TW
 Cart,球車,zh-TW
 Bag,球袋,zh-TW
 Tee time,開球時間,zh-TW
-Range,練習場,zh-TW
 Putting green,推桿練習區,zh-TW
 Driving range,練習場,zh-TW
 Clubhouse,會所,zh-TW
 Pro shop,專賣店,zh-TW
-Rules,規則,zh-TW
 Penalty,罰桿,zh-TW
 Out of bounds,界外,zh-TW
 Water hazard,水障礙,zh-TW

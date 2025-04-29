@@ -1,23 +1,11 @@
 source,target,tgt_lng
-Music,音樂,zh-TW
-Song,歌曲,zh-TW
 Melody,旋律,zh-TW
 Harmony,和聲,zh-TW
-Rhythm,節奏,zh-TW
-Beat,節拍,zh-TW
-Tempo,速度,zh-TW
-Pitch,音高,zh-TW
-Note,音符,zh-TW
 Chord,和弦,zh-TW
 Scale,音階,zh-TW
-Key,調性,zh-TW
-Major,大調,zh-TW
-Minor,小調,zh-TW
 Sharp,升號,zh-TW
 Flat,降號,zh-TW
 Natural,還原號,zh-TW
-Bar,小節,zh-TW
-Measure,小節,zh-TW
 Time signature,拍號,zh-TW
 Staff,五線譜,zh-TW
 Clef,譜號,zh-TW
@@ -51,20 +39,7 @@ Percussion,打擊樂,zh-TW
 Strings,弦樂,zh-TW
 Woodwind,木管,zh-TW
 Brass,銅管,zh-TW
-Keyboard,鍵盤,zh-TW
-Electronic,電子樂器,zh-TW
-Acoustic,原聲樂器,zh-TW
-Electric,電聲樂器,zh-TW
-Digital,數位樂器,zh-TW
-Amplifier,擴大機,zh-TW
-Speaker,揚聲器,zh-TW
-Microphone,麥克風,zh-TW
-Mixer,混音器,zh-TW
-Effects,效果器,zh-TW
-Pedal,踏板,zh-TW
-Pick,撥片,zh-TW
 Bow,琴弓,zh-TW
-String,琴弦,zh-TW
 Reed,簧片,zh-TW
 Valve,活塞,zh-TW
 Drumstick,鼓棒,zh-TW
@@ -77,41 +52,23 @@ Composer,作曲家,zh-TW
 Arranger,編曲者,zh-TW
 Conductor,指揮,zh-TW
 Performer,演奏者,zh-TW
-Singer,歌手,zh-TW
 Vocalist,主唱,zh-TW
 Backup singer,和聲,zh-TW
 Session musician,錄音室樂手,zh-TW
-Producer,製作人,zh-TW
-Engineer,錄音師,zh-TW
-Studio,錄音室,zh-TW
-Stage,舞台,zh-TW
 Concert hall,音樂廳,zh-TW
 Orchestra,管弦樂團,zh-TW
-Band,樂團,zh-TW
 Ensemble,合奏團,zh-TW
 Choir,合唱團,zh-TW
-Solo,獨奏,zh-TW
-Duet,二重奏,zh-TW
-Trio,三重奏,zh-TW
-Quartet,四重奏,zh-TW
-Quintet,五重奏,zh-TW
-Sextet,六重奏,zh-TW
-Septet,七重奏,zh-TW
-Octet,八重奏,zh-TW
 Classical,古典音樂,zh-TW
 Jazz,爵士樂,zh-TW
 Rock,搖滾樂,zh-TW
-Pop,流行音樂,zh-TW
 Blues,藍調,zh-TW
 Country,鄉村音樂,zh-TW
 Folk,民謠,zh-TW
-Electronic,電子音樂,zh-TW
 Hip hop,嘻哈音樂,zh-TW
 R&B,節奏藍調,zh-TW
 Reggae,雷鬼,zh-TW
 Latin,拉丁音樂,zh-TW
 World music,世界音樂,zh-TW
-Traditional,傳統音樂,zh-TW
-Contemporary,當代音樂,zh-TW
 Experimental,實驗音樂,zh-TW
 Avant-garde,前衛音樂,zh-TW

@@ -1,14 +1,10 @@
 source,target,tgt_lng
-Car,汽车,zh-CN
-Automobile,汽车,zh-CN
-Vehicle,车辆,zh-CN
 Sedan,轿车,zh-CN
 SUV,运动型多用途车,zh-CN
 Crossover,跨界车,zh-CN
 Hatchback,掀背车,zh-CN
 Wagon,旅行车,zh-CN
 Van,厢式货车,zh-CN
-Truck,卡车,zh-CN
 Pickup,皮卡,zh-CN
 Sports car,跑车,zh-CN
 Luxury car,豪华车,zh-CN
@@ -17,9 +13,6 @@ Hybrid car,混合动力车,zh-CN
 Plug-in hybrid,插电式混合动力车,zh-CN
 Self-driving car,自动驾驶汽车,zh-CN
 Autonomous vehicle,自动驾驶车辆,zh-CN
-Engine,发动机,zh-CN
-Transmission,变速箱,zh-CN
-Gearbox,变速箱,zh-CN
 Manual transmission,手动变速箱,zh-CN
 Automatic transmission,自动变速箱,zh-CN
 CVT,无级变速箱,zh-CN
@@ -30,14 +23,9 @@ Rear-wheel drive,后轮驱动,zh-CN
 All-wheel drive,全轮驱动,zh-CN
 Four-wheel drive,四轮驱动,zh-CN
 Suspension,悬挂系统,zh-CN
-Brake system,制动系统,zh-CN
 ABS,防抱死制动系统,zh-CN
 ESP,电子稳定程序,zh-CN
 Traction control,牵引力控制,zh-CN
-Airbag,安全气囊,zh-CN
-Seat belt,安全带,zh-CN
-Steering wheel,方向盘,zh-CN
-Dashboard,仪表盘,zh-CN
 Instrument cluster,仪表组,zh-CN
 Speedometer,速度表,zh-CN
 Tachometer,转速表,zh-CN
@@ -50,19 +38,13 @@ Turn signal,转向灯,zh-CN
 Fog light,雾灯,zh-CN
 Windshield,挡风玻璃,zh-CN
 Wiper,雨刷器,zh-CN
-Mirror,后视镜,zh-CN
 Side mirror,侧视镜,zh-CN
 Rearview mirror,后视镜,zh-CN
-Door,车门,zh-CN
-Window,车窗,zh-CN
-Sunroof,天窗,zh-CN
 Trunk,后备箱,zh-CN
 Hood,发动机盖,zh-CN
 Grille,进气格栅,zh-CN
 Bumper,保险杠,zh-CN
 Fender,挡泥板,zh-CN
-Wheel,车轮,zh-CN
-Tire,轮胎,zh-CN
 Rim,轮圈,zh-CN
 Hubcap,轮毂盖,zh-CN
 Exhaust system,排气系统,zh-CN
@@ -74,21 +56,13 @@ Fuel pump,燃油泵,zh-CN
 Fuel injector,燃油喷射器,zh-CN
 Air filter,空气滤清器,zh-CN
 Oil filter,机油滤清器,zh-CN
-Battery,蓄电池,zh-CN
 Alternator,发电机,zh-CN
 Starter,起动机,zh-CN
 Radiator,散热器,zh-CN
 Cooling system,冷却系统,zh-CN
-Heating system,供暖系统,zh-CN
-Air conditioning,空调,zh-CN
 Climate control,气候控制,zh-CN
 Navigation system,导航系统,zh-CN
-GPS,全球定位系统,zh-CN
 Infotainment system,信息娱乐系统,zh-CN
-Audio system,音响系统,zh-CN
-Bluetooth,蓝牙,zh-CN
-USB port,USB接口,zh-CN
-Auxiliary input,辅助输入,zh-CN
 Cruise control,巡航控制,zh-CN
 Lane departure warning,车道偏离警告,zh-CN
 Blind spot monitoring,盲点监测,zh-CN

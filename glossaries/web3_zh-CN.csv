@@ -10,15 +10,12 @@ DeFi,去中心化金融,zh-CN
 DAO,去中心化自治组织,zh-CN
 Smart contract,智能合约,zh-CN
 DApp,去中心化应用,zh-CN
-Wallet,钱包,zh-CN
-Address,地址,zh-CN
 Private key,私钥,zh-CN
 Public key,公钥,zh-CN
 Seed phrase,助记词,zh-CN
 Mnemonic,助记词,zh-CN
 Gas,燃料费,zh-CN
 Gas fee,燃料费,zh-CN
-Transaction,交易,zh-CN
 Block,区块,zh-CN
 Mining,挖矿,zh-CN
 Miner,矿工,zh-CN
@@ -30,7 +27,6 @@ Proof of Stake,权益证明,zh-CN
 Hash,哈希,zh-CN
 Hash rate,算力,zh-CN
 Difficulty,难度,zh-CN
-Network,网络,zh-CN
 Node,节点,zh-CN
 Full node,全节点,zh-CN
 Light node,轻节点,zh-CN
@@ -39,12 +35,9 @@ Fork,分叉,zh-CN
 Hard fork,硬分叉,zh-CN
 Soft fork,软分叉,zh-CN
 Genesis block,创世区块,zh-CN
-Block reward,区块奖励,zh-CN
 Transaction fee,交易费,zh-CN
 Slippage,滑点,zh-CN
 Liquidity,流动性,zh-CN
-Pool,资金池,zh-CN
-Yield,收益,zh-CN
 APY,年化收益率,zh-CN
 APR,年化利率,zh-CN
 Bridge,跨链桥,zh-CN

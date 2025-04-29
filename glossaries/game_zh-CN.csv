@@ -1,9 +1,5 @@
 source,target,tgt_lng
-PC,电脑,zh-CN
-Console,游戏机,zh-CN
 Handheld,掌机,zh-CN
-Mobile,手机,zh-CN
-Game,游戏,zh-CN
 Game title,游戏名称,zh-CN
 Genre,游戏类型,zh-CN
 Action,动作,zh-CN
@@ -21,15 +17,7 @@ Indie,独立游戏,zh-CN
 AAA,3A大作,zh-CN
 DLC,可下载内容,zh-CN
 Expansion,扩展包,zh-CN
-Update,更新,zh-CN
-Patch,补丁,zh-CN
-Bug,漏洞,zh-CN
 Glitch,故障,zh-CN
-Lag,延迟,zh-CN
-FPS,帧率,zh-CN
-Resolution,分辨率,zh-CN
-Graphics,画面,zh-CN
-Animation,动画,zh-CN
 Soundtrack,配乐,zh-CN
 Voice acting,配音,zh-CN
 Cutscene,过场动画,zh-CN
@@ -39,18 +27,9 @@ Achievement,成就,zh-CN
 Save,存档,zh-CN
 Load,读档,zh-CN
 Checkpoint,检查点,zh-CN
-Level,关卡,zh-CN
-Stage,舞台,zh-CN
-World,世界,zh-CN
-Map,地图,zh-CN
-Character,角色,zh-CN
-Player,玩家,zh-CN
-NPC,非玩家角色,zh-CN
-Enemy,敌人,zh-CN
 Boss,首领,zh-CN
 Companion,伙伴,zh-CN
 Party,队伍,zh-CN
-Class,职业,zh-CN
 Race,种族,zh-CN
 Skill,技能,zh-CN
 Ability,能力,zh-CN
@@ -72,17 +51,10 @@ Craft,制作,zh-CN
 Trade,交易,zh-CN
 Shop,商店,zh-CN
 Inventory,背包,zh-CN
-Menu,菜单,zh-CN
 HUD,界面,zh-CN
-UI,用户界面,zh-CN
-Control,控制,zh-CN
-Button,按钮,zh-CN
-Key,按键,zh-CN
 Joystick,摇杆,zh-CN
 Trigger,扳机,zh-CN
 Multiplayer,多人游戏,zh-CN
-Online,在线,zh-CN
-Offline,离线,zh-CN
 Co-op,合作,zh-CN
 PvP,玩家对战,zh-CN
 PvE,玩家对环境,zh-CN
@@ -91,12 +63,6 @@ Casual,休闲,zh-CN
 Tournament,锦标赛,zh-CN
 Match,比赛,zh-CN
 Round,回合,zh-CN
-Team,队伍,zh-CN
 Squad,小队,zh-CN
 Guild,公会,zh-CN
 Clan,氏族,zh-CN
-Friend,好友,zh-CN
-Chat,聊天,zh-CN
-Voice chat,语音聊天,zh-CN
-Emote,表情,zh-CN
-Emoji,表情符号,zh-CN

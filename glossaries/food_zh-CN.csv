@@ -1,6 +1,5 @@
 source,target,tgt_lng
 Cuisine,菜系,zh-CN
-Cooking,烹饪,zh-CN
 Baking,烘焙,zh-CN
 Grilling,烧烤,zh-CN
 Frying,煎炸,zh-CN
@@ -20,103 +19,34 @@ Seasoning,调味,zh-CN
 Garnishing,装饰,zh-CN
 Plating,摆盘,zh-CN
 Recipe,食谱,zh-CN
-Ingredient,食材,zh-CN
-Spice,香料,zh-CN
-Herb,香草,zh-CN
-Condiment,调味品,zh-CN
-Sauce,酱汁,zh-CN
 Dressing,沙拉酱,zh-CN
 Marinade,腌料,zh-CN
 Stock,高汤,zh-CN
 Broth,清汤,zh-CN
 Consommé,清汤,zh-CN
-Soup,汤,zh-CN
-Appetizer,开胃菜,zh-CN
-Entrée,主菜,zh-CN
-Side dish,配菜,zh-CN
-Dessert,甜点,zh-CN
-Beverage,饮品,zh-CN
-Wine,葡萄酒,zh-CN
-Beer,啤酒,zh-CN
 Cocktail,鸡尾酒,zh-CN
-Coffee,咖啡,zh-CN
-Tea,茶,zh-CN
-Juice,果汁,zh-CN
 Smoothie,冰沙,zh-CN
-Restaurant,餐厅,zh-CN
-Café,咖啡馆,zh-CN
 Bistro,小酒馆,zh-CN
-Bar,酒吧,zh-CN
 Buffet,自助餐,zh-CN
 Takeout,外卖,zh-CN
 Delivery,送餐,zh-CN
 Reservation,预订,zh-CN
-Menu,菜单,zh-CN
 Special,特色菜,zh-CN
 Daily special,每日特价,zh-CN
 Chef's special,主厨特选,zh-CN
-Chef,主厨,zh-CN
 Sous chef,副主厨,zh-CN
 Line cook,厨师,zh-CN
 Pastry chef,甜点师,zh-CN
-Kitchen,厨房,zh-CN
 Prep area,准备区,zh-CN
 Station,工作站,zh-CN
-Equipment,设备,zh-CN
-Utensil,厨具,zh-CN
-Knife,刀,zh-CN
-Pan,锅,zh-CN
-Pot,锅,zh-CN
 Wok,炒锅,zh-CN
-Oven,烤箱,zh-CN
-Stove,炉灶,zh-CN
-Grill,烤架,zh-CN
-Microwave,微波炉,zh-CN
 Blender,搅拌机,zh-CN
 Food processor,食物处理器,zh-CN
-Mixer,搅拌器,zh-CN
-Scale,秤,zh-CN
-Thermometer,温度计,zh-CN
-Timer,计时器,zh-CN
-Cutting board,砧板,zh-CN
 Colander,滤网,zh-CN
 Strainer,滤网,zh-CN
 Whisk,打蛋器,zh-CN
-Spatula,铲子,zh-CN
-Ladle,汤勺,zh-CN
-Tongs,夹子,zh-CN
-Peeler,削皮器,zh-CN
 Grater,擦丝器,zh-CN
 Zester,刨丝器,zh-CN
-Meat,肉类,zh-CN
-Beef,牛肉,zh-CN
-Pork,猪肉,zh-CN
-Lamb,羊肉,zh-CN
-Chicken,鸡肉,zh-CN
-Duck,鸭肉,zh-CN
-Fish,鱼,zh-CN
-Seafood,海鲜,zh-CN
-Vegetable,蔬菜,zh-CN
-Fruit,水果,zh-CN
-Grain,谷物,zh-CN
-Rice,米饭,zh-CN
-Noodle,面条,zh-CN
-Pasta,意大利面,zh-CN
-Bread,面包,zh-CN
-Dairy,乳制品,zh-CN
-Egg,鸡蛋,zh-CN
-Cheese,奶酪,zh-CN
-Milk,牛奶,zh-CN
-Cream,奶油,zh-CN
-Butter,黄油,zh-CN
-Yogurt,酸奶,zh-CN
-Oil,油,zh-CN
-Vinegar,醋,zh-CN
-Salt,盐,zh-CN
-Pepper,胡椒,zh-CN
-Sugar,糖,zh-CN
-Honey,蜂蜜,zh-CN
-Flour,面粉,zh-CN
 Baking powder,泡打粉,zh-CN
 Baking soda,小苏打,zh-CN
 Yeast,酵母,zh-CN

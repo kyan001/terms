@@ -10,15 +10,12 @@ DeFi,去中心化金融,zh-TW
 DAO,去中心化自治組織,zh-TW
 Smart contract,智能合約,zh-TW
 DApp,去中心化應用,zh-TW
-Wallet,錢包,zh-TW
-Address,地址,zh-TW
 Private key,私鑰,zh-TW
 Public key,公鑰,zh-TW
 Seed phrase,助記詞,zh-TW
 Mnemonic,助記詞,zh-TW
 Gas,燃料費,zh-TW
 Gas fee,燃料費,zh-TW
-Transaction,交易,zh-TW
 Block,區塊,zh-TW
 Mining,挖礦,zh-TW
 Miner,礦工,zh-TW
@@ -30,7 +27,6 @@ Proof of Stake,權益證明,zh-TW
 Hash,雜湊,zh-TW
 Hash rate,算力,zh-TW
 Difficulty,難度,zh-TW
-Network,網路,zh-TW
 Node,節點,zh-TW
 Full node,全節點,zh-TW
 Light node,輕節點,zh-TW
@@ -43,8 +39,6 @@ Block reward,區塊獎勵,zh-TW
 Transaction fee,交易費,zh-TW
 Slippage,滑點,zh-TW
 Liquidity,流動性,zh-TW
-Pool,資金池,zh-TW
-Yield,收益,zh-TW
 APY,年化收益率,zh-TW
 APR,年化利率,zh-TW
 Bridge,跨鏈橋,zh-TW

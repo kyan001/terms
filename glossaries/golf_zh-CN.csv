@@ -2,7 +2,6 @@ source,target,tgt_lng
 Golf,高尔夫,zh-CN
 Course,球场,zh-CN
 Club,球杆,zh-CN
-Ball,球,zh-CN
 Tee,发球台,zh-CN
 Fairway,球道,zh-CN
 Rough,长草区,zh-CN
@@ -25,11 +24,8 @@ Putter,推杆,zh-CN
 Wedge,挖起杆,zh-CN
 Hybrid,混合杆,zh-CN
 Shaft,杆身,zh-CN
-Grip,握把,zh-CN
-Head,杆头,zh-CN
 Swing,挥杆,zh-CN
 Stance,站姿,zh-CN
-Grip,握杆,zh-CN
 Backswing,上杆,zh-CN
 Downswing,下杆,zh-CN
 Follow-through,收杆,zh-CN
@@ -41,22 +37,16 @@ Shank,剃头球,zh-CN
 Whiff,空挥,zh-CN
 Mulligan,重打,zh-CN
 Handicap,差点,zh-CN
-Score,分数,zh-CN
-Round,轮次,zh-CN
-Tournament,比赛,zh-CN
-Match,比赛,zh-CN
 Stroke play,比杆赛,zh-CN
 Match play,比洞赛,zh-CN
 Caddie,球童,zh-CN
 Cart,球车,zh-CN
 Bag,球包,zh-CN
 Tee time,开球时间,zh-CN
-Range,练习场,zh-CN
 Putting green,推杆练习区,zh-CN
 Driving range,练习场,zh-CN
 Clubhouse,会所,zh-CN
 Pro shop,专卖店,zh-CN
-Rules,规则,zh-CN
 Penalty,罚杆,zh-CN
 Out of bounds,界外,zh-CN
 Water hazard,水障碍,zh-CN

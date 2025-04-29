@@ -1,6 +1,5 @@
 source,target,tgt_lng
 Gardening,园艺,zh-CN
-Garden,花园,zh-CN
 Garden center,园艺中心,zh-CN
 Nursery,苗圃,zh-CN
 Greenhouse,温室,zh-CN
@@ -13,25 +12,10 @@ Water garden,水景园,zh-CN
 Container garden,容器花园,zh-CN
 Indoor garden,室内花园,zh-CN
 Outdoor garden,户外花园,zh-CN
-Plant,植物,zh-CN
-Flower,花,zh-CN
-Tree,树,zh-CN
-Shrub,灌木,zh-CN
-Herb,香草,zh-CN
-Vegetable,蔬菜,zh-CN
-Fruit,水果,zh-CN
-Seed,种子,zh-CN
 Seedling,幼苗,zh-CN
 Sapling,树苗,zh-CN
 Cutting,插条,zh-CN
 Bulb,球根,zh-CN
-Root,根,zh-CN
-Stem,茎,zh-CN
-Leaf,叶,zh-CN
-Branch,枝,zh-CN
-Trunk,树干,zh-CN
-Bark,树皮,zh-CN
-Soil,土壤,zh-CN
 Compost,堆肥,zh-CN
 Fertilizer,肥料,zh-CN
 Mulch,覆盖物,zh-CN
@@ -39,11 +23,8 @@ Peat,泥炭,zh-CN
 Sand,沙子,zh-CN
 Clay,粘土,zh-CN
 Loam,壤土,zh-CN
-Watering,浇水,zh-CN
 Irrigation,灌溉,zh-CN
 Sprinkler,喷水器,zh-CN
-Hose,水管,zh-CN
-Watering can,浇水壶,zh-CN
 Pruning,修剪,zh-CN
 Weeding,除草,zh-CN
 Mowing,割草,zh-CN
@@ -58,27 +39,12 @@ Growth,生长,zh-CN
 Development,发育,zh-CN
 Maturity,成熟,zh-CN
 Dormancy,休眠,zh-CN
-Season,季节,zh-CN
-Spring,春天,zh-CN
-Summer,夏天,zh-CN
-Autumn,秋天,zh-CN
-Winter,冬天,zh-CN
-Climate,气候,zh-CN
-Temperature,温度,zh-CN
-Humidity,湿度,zh-CN
-Sunlight,阳光,zh-CN
-Shade,阴影,zh-CN
-Wind,风,zh-CN
-Rain,雨,zh-CN
-Frost,霜,zh-CN
-Snow,雪,zh-CN
 Drought,干旱,zh-CN
 Flood,洪水,zh-CN
 Pest,害虫,zh-CN
 Disease,病害,zh-CN
 Fungus,真菌,zh-CN
 Mold,霉菌,zh-CN
-Insect,昆虫,zh-CN
 Worm,蠕虫,zh-CN
 Snail,蜗牛,zh-CN
 Slug,蛞蝓,zh-CN
@@ -87,19 +53,12 @@ Caterpillar,毛毛虫,zh-CN
 Ladybug,瓢虫,zh-CN
 Bee,蜜蜂,zh-CN
 Butterfly,蝴蝶,zh-CN
-Bird,鸟,zh-CN
-Tool,工具,zh-CN
 Shovel,铲子,zh-CN
 Spade,铁锹,zh-CN
 Hoe,锄头,zh-CN
 Rake,耙子,zh-CN
-Fork,叉子,zh-CN
 Trowel,小铲,zh-CN
 Pruner,修枝剪,zh-CN
 Shears,剪刀,zh-CN
 Lawn mower,割草机,zh-CN
 Wheelbarrow,手推车,zh-CN
-Gloves,手套,zh-CN
-Boots,靴子,zh-CN
-Hat,帽子,zh-CN
-Apron,围裙,zh-CN

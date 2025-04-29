@@ -1,66 +1,17 @@
 source,target,tgt_lng
-News,新闻,zh-CN
-Article,文章,zh-CN
-Report,报道,zh-CN
-Story,故事,zh-CN
-Headline,标题,zh-CN
-Subhead,副标题,zh-CN
 Lead,导语,zh-CN
-Body,正文,zh-CN
-Conclusion,结论,zh-CN
-Source,来源,zh-CN
-Quote,引用,zh-CN
-Interview,采访,zh-CN
 Press conference,新闻发布会,zh-CN
 Press release,新闻稿,zh-CN
 Breaking news,突发新闻,zh-CN
 Exclusive,独家,zh-CN
 Scoop,独家新闻,zh-CN
-Coverage,报道,zh-CN
 Journalist,记者,zh-CN
 Reporter,记者,zh-CN
-Editor,编辑,zh-CN
 Correspondent,通讯员,zh-CN
 Columnist,专栏作家,zh-CN
 Commentator,评论员,zh-CN
 Anchor,主播,zh-CN
-Broadcast,广播,zh-CN
-Live,直播,zh-CN
-Recording,录制,zh-CN
-Studio,演播室,zh-CN
-Camera,摄像机,zh-CN
-Microphone,麦克风,zh-CN
-Sound,声音,zh-CN
-Video,视频,zh-CN
-Image,图片,zh-CN
-Photo,照片,zh-CN
-Caption,图片说明,zh-CN
-Credit,署名,zh-CN
-Deadline,截稿时间,zh-CN
-Publication,出版,zh-CN
-Edition,版本,zh-CN
-Print,印刷,zh-CN
-Digital,数字,zh-CN
-Online,在线,zh-CN
-Website,网站,zh-CN
-Social media,社交媒体,zh-CN
-Platform,平台,zh-CN
-Content,内容,zh-CN
-Format,格式,zh-CN
-Layout,版面,zh-CN
-Design,设计,zh-CN
-Style,风格,zh-CN
-Tone,语气,zh-CN
-Language,语言,zh-CN
-Translation,翻译,zh-CN
-Localization,本地化,zh-CN
 Fact check,事实核查,zh-CN
 Verification,核实,zh-CN
-Accuracy,准确性,zh-CN
-Objectivity,客观性,zh-CN
-Bias,偏见,zh-CN
 Censorship,审查,zh-CN
 Freedom of press,新闻自由,zh-CN
-Ethics,伦理,zh-CN
-Guidelines,准则,zh-CN
-Standards,标准,zh-CN

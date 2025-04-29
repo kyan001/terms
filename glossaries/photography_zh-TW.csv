@@ -1,32 +1,17 @@
 source,target,tgt_lng
-Photography,攝影,zh-TW
-Camera,相機,zh-TW
-Lens,鏡頭,zh-TW
 Body,機身,zh-TW
 Sensor,感光元件,zh-TW
 Viewfinder,觀景窗,zh-TW
 LCD,液晶螢幕,zh-TW
-Screen,螢幕,zh-TW
-Shutter,快門,zh-TW
-Aperture,光圈,zh-TW
-ISO,感光度,zh-TW
-Exposure,曝光,zh-TW
 Metering,測光,zh-TW
 Focus,對焦,zh-TW
 Autofocus,自動對焦,zh-TW
 Manual focus,手動對焦,zh-TW
-Flash,閃光燈,zh-TW
-Tripod,腳架,zh-TW
-Filter,濾鏡,zh-TW
-Battery,電池,zh-TW
-Memory card,記憶卡,zh-TW
 SD card,SD卡,zh-TW
 CF card,CF卡,zh-TW
 RAW,原始檔,zh-TW
 JPEG,JPEG格式,zh-TW
-Resolution,解析度,zh-TW
 Megapixel,百萬畫素,zh-TW
-Frame,片幅,zh-TW
 Full frame,全片幅,zh-TW
 APS-C,APS-C片幅,zh-TW
 Micro Four Thirds,微單,zh-TW
@@ -36,14 +21,8 @@ Prime,定焦,zh-TW
 Wide angle,廣角,zh-TW
 Telephoto,長焦,zh-TW
 Macro,微距,zh-TW
-Portrait,人像,zh-TW
-Landscape,風景,zh-TW
 Street,街拍,zh-TW
-Sports,運動,zh-TW
 Wildlife,野生動物,zh-TW
-Night,夜景,zh-TW
-Studio,攝影棚,zh-TW
-Light,光線,zh-TW
 Natural light,自然光,zh-TW
 Artificial light,人造光,zh-TW
 Flash light,閃光,zh-TW
@@ -63,17 +42,4 @@ Depth,深度,zh-TW
 Perspective,透視,zh-TW
 Angle,角度,zh-TW
 Viewpoint,視點,zh-TW
-Background,背景,zh-TW
-Foreground,前景,zh-TW
-Subject,主體,zh-TW
-Model,模特兒,zh-TW
-Photographer,攝影師,zh-TW
-Assistant,助理,zh-TW
-Client,客戶,zh-TW
-Portfolio,作品集,zh-TW
-Gallery,藝廊,zh-TW
-Exhibition,展覽,zh-TW
-Print,列印,zh-TW
 Enlargement,放大,zh-TW
-Frame,相框,zh-TW
-Album,相簿,zh-TW
