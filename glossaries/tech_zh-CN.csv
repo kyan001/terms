@@ -1,56 +1,36 @@
 source,target,tgt_lng
 Algorithm,算法,zh-CN
-API,应用程序接口,zh-CN
-Database,数据库,zh-CN
-Server,服务器,zh-CN
-Client,客户端,zh-CN
-Cache,缓存,zh-CN
-Debug,调试,zh-CN
-Framework,框架,zh-CN
-Repository,代码仓库,zh-CN
-Backend,后端,zh-CN
-Frontend,前端,zh-CN
-Middleware,中间件,zh-CN
-Protocol,协议,zh-CN
-Query,查询,zh-CN
-Response,响应,zh-CN
-Request,请求,zh-CN
-Session,会话,zh-CN
-Variable,变量,zh-CN
-Class,类,zh-CN
-Object,对象,zh-CN
-Method,方法,zh-CN
-Property,属性,zh-CN
-Parameter,参数,zh-CN
-Exception,异常,zh-CN
-Console,控制台,zh-CN
-Terminal,终端,zh-CN
-Script,脚本,zh-CN
-Module,模块,zh-CN
-Package,包,zh-CN
-Dependency,依赖,zh-CN
-Release,发布,zh-CN
-Build,构建,zh-CN
-Deploy,部署,zh-CN
-Debug,调试,zh-CN
-Config,配置,zh-CN
-Setting,设置,zh-CN
-Plugin,插件,zh-CN
-Extension,扩展,zh-CN
-Layout,布局,zh-CN
-Component,组件,zh-CN
-Widget,小部件,zh-CN
-Template,模板,zh-CN
-Encode,编码,zh-CN
-Decode,解码,zh-CN
-Parse,解析,zh-CN
-Render,渲染,zh-CN
-Compile,编译,zh-CN
-Thread,线程,zh-CN
-Protocol,协议,zh-CN
-Encryption,加密,zh-CN
-Decryption,解密,zh-CN
-Authentication,认证,zh-CN
-Authorization,授权,zh-CN
-Permission,权限,zh-CN
 Avatar,头像,zh-CN
+# Abbreviations
+CPU,中央处理器,zh-CN
+GPU,图形处理器,zh-CN
+RAM,内存,zh-CN
+SSD,固态硬盘,zh-CN
+IP Address,IP 地址,zh-CN
+VPN,虚拟专用网络,zh-CN
+AI,人工智能,zh-CN
+UI,用户界面,zh-CN
+UX,用户体验,zh-CN
+# Phrases / Compound Terms / Jargon
+Cloud Computing,云计算,zh-CN
+Big Data,大数据,zh-CN
+Machine Learning,机器学习,zh-CN
+Deep Learning,深度学习,zh-CN
+Neural Network,神经网络,zh-CN
+Operating System,操作系统,zh-CN
+Virtual Machine,虚拟机,zh-CN
+Domain Name,域名,zh-CN
+Cloud Storage,云存储,zh-CN
+Hard Drive,硬盘,zh-CN
+Solid State Drive,固态硬盘,zh-CN
+User Interface,用户界面,zh-CN
+User Experience,用户体验,zh-CN
+# Terms for Consistency / Specific Tech Meaning
+App,应用,zh-CN
+Firmware,固件,zh-CN
+Ethernet,以太网,zh-CN
+Database,数据库,zh-CN
+Malware,恶意软件,zh-CN
+Firewall,防火墙,zh-CN
+Pixel,像素,zh-CN
+Resolution,分辨率,zh-CN

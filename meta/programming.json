@@ -1,0 +1,86 @@
+{
+  "id": "programming",
+  "name": "Programming",
+  "description": "Glossary for programming languages, software development concepts, and related IT terminology.",
+  "author": "immersive",
+  "glossary": "programming",
+  "langs": [
+    "auto",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "编程",
+      "description": "包含编程语言、软件开发概念及相关 IT 术语的词汇表。"
+    },
+    "zh-TW": {
+      "name": "程式設計",
+      "description": "包含程式語言、軟體開發概念及相關 IT 術語的詞彙表。"
+    },
+    "en": {
+      "name": "Programming",
+      "description": "Glossary for programming languages, software development concepts, and related IT terminology."
+    },
+    "ja": {
+      "name": "プログラミング",
+      "description": "プログラミング言語、ソフトウェア開発コンセプト、および関連するIT用語の用語集。"
+    },
+    "ar": {
+      "name": "برمجة",
+      "description": "مسرد للغات البرمجة ومفاهيم تطوير البرامج ومصطلحات تكنولوجيا المعلومات ذات الصلة."
+    },
+    "de": {
+      "name": "Programmierung",
+      "description": "Glossar für Programmiersprachen, Softwareentwicklungskonzepte und verwandte IT-Terminologie."
+    },
+    "es": {
+      "name": "Programación",
+      "description": "Glosario de lenguajes de programación, conceptos de desarrollo de software y terminología informática relacionada."
+    },
+    "fa": {
+      "name": "برنامه‌نویسی",
+      "description": "واژه‌نامه زبان‌های برنامه‌نویسی، مفاهیم توسعه نرم‌افزار و اصطلاحات مرتبط با فناوری اطلاعات."
+    },
+    "fr": {
+      "name": "Programmation",
+      "description": "Glossaire des langages de programmation, des concepts de développement logiciel et de la terminologie informatique associée."
+    },
+    "he": {
+      "name": "תכנות",
+      "description": "מילון מונחים לשפות תכנות, מושגי פיתוח תוכנה וטרמינולוגיה קשורה של IT."
+    },
+    "hi": {
+      "name": "प्रोग्रामिंग",
+      "description": "प्रोग्रामिंग भाषाओं, सॉफ्टवेयर विकास अवधारणाओं और संबंधित आईटी शब्दावली के लिए शब्दावली।"
+    },
+    "hu": {
+      "name": "Programozás",
+      "description": "Szószedet programozási nyelvekhez, szoftverfejlesztési koncepciókhoz és kapcsolódó informatikai terminológiához."
+    },
+    "it": {
+      "name": "Programmazione",
+      "description": "Glossario per linguaggi di programmazione, concetti di sviluppo software e terminologia informatica correlata."
+    },
+    "ru": {
+      "name": "Программирование",
+      "description": "Глоссарий языков программирования, концепций разработки программного обеспечения и связанной ИТ-терминологии."
+    },
+    "ko": {
+      "name": "프로그래밍",
+      "description": "프로그래밍 언어, 소프트웨어 개발 개념 및 관련 IT 용어집."
+    },
+    "pt-PT": {
+      "name": "Programação",
+      "description": "Glossário para linguagens de programação, conceitos de desenvolvimento de software e terminologia de TI relacionada."
+    },
+    "pt-BR": {
+      "name": "Programação",
+      "description": "Glossário para linguagens de programação, conceitos de desenvolvimento de software e terminologia de TI relacionada."
+    },
+    "tr": {
+      "name": "Programlama",
+      "description": "Programlama dilleri, yazılım geliştirme kavramları ve ilgili BT terminolojisi sözlüğü."
+    }
+  }
+} 

@@ -1,7 +1,7 @@
 {
   "id": "tech",
   "name": "Technology Expert",
-  "description": "Specialized in translating technology-related content, ensuring accurate and idiomatic translations for technical documentation, software interfaces, and IT terminology.",
+  "description": "Focuses on general technology concepts, including hardware, AI models, and major tech companies.",
   "author": "immersive",
   "glossary": "tech",
   "langs": [
@@ -12,75 +12,75 @@
   "i18ns": {
     "zh-CN": {
       "name": "科技",
-      "description": "科技术语库，包含技术文档、软件界面和IT领域相关术语的中文翻译。"
+      "description": "专注于通用科技概念，涵盖硬件、AI 模型和主要科技公司。"
     },
     "zh-TW": {
       "name": "科技",
-      "description": "科技術語庫，包含技術文檔、軟體介面和IT領域相關術語的繁體中文翻譯。"
+      "description": "專注於通用科技概念，涵蓋硬體、AI 模型和主要科技公司。"
     },
     "en": {
       "name": "Technology Expert",
-      "description": "Specialized in translating technology-related content, ensuring accurate and idiomatic translations for technical documentation, software interfaces, and IT terminology."
+      "description": "Focuses on general technology concepts, including hardware, AI models, and major tech companies."
     },
     "ja": {
       "name": "テクノロジーエキスパート",
-      "description": "技術関連コンテンツの翻訳を専門とし、技術文書、ソフトウェアインターフェース、IT用語の正確で慣用的な翻訳を保証します。"
+      "description": "ハードウェア、AIモデル、主要なテクノロジー企業を含む一般的な技術コンセプトに焦点を当てています。"
     },
     "ar": {
       "name": "خبير تكنولوجيا",
-      "description": "متخصص في ترجمة المحتوى المتعلق بالتكنولوجيا، مع ضمان ترجمات دقيقة ومناسبة للوثائق الفنية وواجهات البرامج ومصطلحات تكنولوجيا المعلومات。"
+      "description": "يركز على مفاهيم التكنولوجيا العامة، بما في ذلك الأجهزة ونماذج الذكاء الاصطناعي وشركات التكنولوجيا الكبرى."
     },
     "de": {
       "name": "Technologie-Experte",
-      "description": "Spezialisiert auf die Übersetzung technologiebezogener Inhalte, um genaue und idiomatische Übersetzungen für technische Dokumentationen, Software-Schnittstellen und IT-Terminologie zu gewährleisten。"
+      "description": "Konzentriert sich auf allgemeine Technologiekonzepte, einschließlich Hardware, KI-Modelle und große Technologieunternehmen."
     },
     "es": {
       "name": "Experto en Tecnología",
-      "description": "Especializado en la traducción de contenido relacionado con la tecnología, garantizando traducciones precisas e idiomáticas para documentación técnica, interfaces de software y terminología de TI."
+      "description": "Se centra en conceptos generales de tecnología, incluyendo hardware, modelos de IA y las principales empresas tecnológicas."
     },
     "fa": {
         "name": "کارشناس فناوری",
-        "description": "متخصص در ترجمه محتوای مرتبط با فناوری، تضمین ترجمه‌های دقیق و اصطلاحی برای مستندات فنی، رابط‌های نرم‌افزاری و اصطلاحات فناوری اطلاعات."
+        "description": "بر مفاهیم کلی فناوری، از جمله سخت‌افزار، مدل‌های هوش مصنوعی و شرکت‌های بزرگ فناوری تمرکز دارد."
     },
     "fr": {
         "name": "Expert en technologie",
-        "description": "Spécialisé dans la traduction de contenu technologique, assurant des traductions précises et idiomatiques pour la documentation technique, les interfaces logicielles et la terminologie informatique."
+        "description": "Se concentre sur les concepts technologiques généraux, y compris le matériel, les modèles d'IA et les grandes entreprises technologiques."
     },
     "he": {
         "name": "מומחה טכנולוגיה",
-        "description": "מתמחה בתרגום תוכן טכנולוגי, תוך הבטחת תרגומים מדויקים ואידיומטיים לתיעוד טכני, ממשקי תוכנה וטרמינולוגיה של IT."
+        "description": "מתמקד במושגי טכנולוגיה כלליים, כולל חומרה, מודלי בינה מלאכותית וחברות טכנולוגיה גדולות."
     },
     "hi": {
       "name": "प्रौद्योगिकी विशेषज्ञ",
-      "description": "प्रौद्योगिकी-संबंधित सामग्री का अनुवाद करने में विशेषज्ञता, तकनीकी दस्तावेज़ीकरण, सॉफ्टवेयर इंटरफेस और आईटी शब्दावली के लिए सटीक और मुहावरेदार अनुवाद सुनिश्चित करना।"
+      "description": "सामान्य प्रौद्योगिकी अवधारणाओं पर ध्यान केंद्रित करता है, जिसमें हार्डवेयर, एआई मॉडल और प्रमुख तकनीकी कंपनियां शामिल हैं।"
     },
     "hu": {
       "name": "Technológiai szakértő",
-      "description": "Technológiával kapcsolatos tartalmak fordítására szakosodott, biztosítva a műszaki dokumentációk, szoftverinterfészek és informatikai terminológia pontos és idiomatikus fordítását."
+      "description": "Általános technológiai koncepciókra összpontosít, beleértve a hardvert, az MI-modelleket és a nagy technológiai vállalatokat."
     },
     "it": {
       "name": "Esperto di Tecnologia",
-      "description": "Specializzato nella traduzione di contenuti tecnologici, garantendo traduzioni accurate e idiomatiche per documentazione tecnica, interfacce software e terminologia IT."
+      "description": "Si concentra sui concetti tecnologici generali, tra cui hardware, modelli di IA e le principali aziende tecnologiche."
     },
     "ru": {
         "name": "Эксперт по технологиям",
-        "description": "Специализируется на переводе контента, связанного с технологиями, обеспечивая точные и идиоматические переводы для технической документации, программных интерфейсов и ИТ-терминологии."
+        "description": "Фокусируется на общих технологических концепциях, включая оборудование, модели ИИ и крупные технологические компании."
     },
     "ko": {
         "name": "기술 전문가",
-        "description": "기술 관련 콘텐츠 번역 전문가로서 기술 문서, 소프트웨어 인터페이스, IT 용어에 대한 정확하고 자연스러운 번역을 보장합니다."
+        "description": "하드웨어, AI 모델 및 주요 기술 회사를 포함한 일반적인 기술 개념에 중점을 둡니다."
     },
     "pt-PT": {
         "name": "Especialista em Tecnologia",
-        "description": "Especializado na tradução de conteúdo relacionado à tecnologia, garantindo traduções precisas e idiomáticas para documentação técnica, interfaces de software e terminologia de TI."
+        "description": "Concentra-se em conceitos gerais de tecnologia, incluindo hardware, modelos de IA e grandes empresas de tecnologia."
     },
     "pt-BR": {
       "name": "Especialista em Tecnologia",
-      "description": "Especializado na tradução de conteúdo relacionado à tecnologia, garantindo traduções precisas e idiomáticas para documentação técnica, interfaces de software e terminologia de TI."
+      "description": "Concentra-se em conceitos gerais de tecnologia, incluindo hardware, modelos de IA e grandes empresas de tecnologia."
     },
     "tr": {
       "name": "Teknoloji Uzmanı",
-      "description": "Teknoloji ile ilgili içeriğin çevirisinde uzmanlaşmış, teknik belgeler, yazılım arayüzleri ve BT terminolojisi için doğru ve deyimsel çeviriler sağlamaktadır."
+      "description": "Donanım, yapay zeka modelleri ve büyük teknoloji şirketleri dahil olmak üzere genel teknoloji kavramlarına odaklanır."
     }
   }
 }
