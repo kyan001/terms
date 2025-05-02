@@ -1,21 +1,15 @@
 source,target,tgt_lng
 Constitution,憲法,zh-TW
-Law,法律,zh-TW
 Regulation,法規,zh-TW
 Statute,法令,zh-TW
 Ordinance,條例,zh-TW
 Code,法典,zh-TW
 Amendment,修正案,zh-TW
-Article,條款,zh-TW
-Section,章節,zh-TW
 Clause,條款,zh-TW
 Subsection,小節,zh-TW
-Paragraph,段落,zh-TW
 Proviso,但書,zh-TW
 Schedule,附表,zh-TW
-Appendix,附錄,zh-TW
 Jurisdiction,管轄權,zh-TW
-Court,法院,zh-TW
 Supreme Court,最高法院,zh-TW
 High Court,高等法院,zh-TW
 District Court,地方法院,zh-TW
@@ -23,7 +17,6 @@ Magistrate Court,治安法院,zh-TW
 Appeal Court,上訴法院,zh-TW
 Circuit Court,巡迴法院,zh-TW
 Tribunal,法庭,zh-TW
-Judge,法官,zh-TW
 Justice,大法官,zh-TW
 Magistrate,治安法官,zh-TW
 Prosecutor,檢察官,zh-TW
@@ -35,14 +28,12 @@ Plaintiff,原告,zh-TW
 Defendant,被告,zh-TW
 Appellant,上訴人,zh-TW
 Respondent,被上訴人,zh-TW
-Witness,證人,zh-TW
 Expert witness,證人,zh-TW
 Jury,陪審團,zh-TW
 Juror,陪審員,zh-TW
 Bailiff,法警,zh-TW
 Clerk,書記官,zh-TW
 Court reporter,法庭記錄員,zh-TW
-Case,案件,zh-TW
 Civil case,民事案件,zh-TW
 Criminal case,刑事案件,zh-TW
 Administrative case,行政案件,zh-TW
@@ -54,8 +45,6 @@ Judgment,判決,zh-TW
 Order,命令,zh-TW
 Decree,法令,zh-TW
 Ruling,裁定,zh-TW
-Decision,決定,zh-TW
-Opinion,意見,zh-TW
 Dissenting opinion,異議意見,zh-TW
 Concurring opinion,附議意見,zh-TW
 Majority opinion,多數意見,zh-TW
@@ -85,8 +74,6 @@ Bankruptcy law,破產法,zh-TW
 Tax law,稅法,zh-TW
 Environmental law,環境法,zh-TW
 Intellectual property law,智慧財產權法,zh-TW
-Contract,契約,zh-TW
-Agreement,協議,zh-TW
 Deed,契據,zh-TW
 Will,遺囑,zh-TW
 Trust,信託,zh-TW

@@ -1,8 +1,4 @@
 source,target,tgt_lng
-Movie,电影,zh-CN
-Film,电影,zh-CN
-Cinema,电影,zh-CN
-Motion picture,电影,zh-CN
 Feature film,故事片,zh-CN
 Short film,短片,zh-CN
 Documentary,纪录片,zh-CN
@@ -17,9 +13,6 @@ IMAX,IMAX电影,zh-CN
 Director,导演,zh-CN
 Producer,制片人,zh-CN
 Screenwriter,编剧,zh-CN
-Actor,演员,zh-CN
-Actress,女演员,zh-CN
-Star,明星,zh-CN
 Lead actor,主演,zh-CN
 Supporting actor,配角,zh-CN
 Cameo,客串,zh-CN
@@ -53,7 +46,6 @@ Blue screen,蓝幕,zh-CN
 Motion capture,动作捕捉,zh-CN
 Storyboard,分镜脚本,zh-CN
 Shot list,镜头清单,zh-CN
-Scene,场景,zh-CN
 Take,镜头,zh-CN
 Cut,剪辑,zh-CN
 Close-up,特写,zh-CN
@@ -70,46 +62,16 @@ Point of view shot,主观镜头,zh-CN
 Over the shoulder shot,过肩镜头,zh-CN
 Two shot,双人镜头,zh-CN
 Group shot,群像镜头,zh-CN
-Action,动作,zh-CN
 Cut,停,zh-CN
 Roll camera,开机,zh-CN
 Speed,开始,zh-CN
 Wrap,收工,zh-CN
-Set,片场,zh-CN
-Location,外景地,zh-CN
-Studio,摄影棚,zh-CN
 Sound stage,录音棚,zh-CN
 Backlot,外景场地,zh-CN
-Props,道具,zh-CN
 Set dressing,布景装饰,zh-CN
-Costume,服装,zh-CN
 Wardrobe,服装间,zh-CN
-Makeup,化妆,zh-CN
-Hair,发型,zh-CN
-Lighting,灯光,zh-CN
-Camera,摄影机,zh-CN
-Lens,镜头,zh-CN
-Tripod,三脚架,zh-CN
 Dolly,推轨,zh-CN
 Crane,升降机,zh-CN
-Microphone,麦克风,zh-CN
 Boom pole,话筒杆,zh-CN
-Monitor,监视器,zh-CN
-Script,剧本,zh-CN
 Call sheet,通告单,zh-CN
 Storyboard,分镜图,zh-CN
-Shot list,镜头清单,zh-CN
-Schedule,拍摄计划,zh-CN
-Budget,预算,zh-CN
-Release date,上映日期,zh-CN
-Box office,票房,zh-CN
-Gross,总收入,zh-CN
-Net,净收入,zh-CN
-Rating,分级,zh-CN
-Genre,类型,zh-CN
-Plot,剧情,zh-CN
-Character,角色,zh-CN
-Theme,主题,zh-CN
-Setting,背景,zh-CN
-Conflict,冲突,zh-CN
-Resolution,结局,zh-CN

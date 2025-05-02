@@ -2,6 +2,7 @@ source,target,tgt_lng
 Feature film,劇情片,zh-TW
 Short film,短片,zh-TW
 Documentary,紀錄片,zh-TW
+Animation,動畫片,zh-TW
 Live action,真人電影,zh-TW
 Silent film,默片,zh-TW
 Sound film,有聲電影,zh-TW
@@ -9,15 +10,21 @@ Color film,彩色電影,zh-TW
 Black and white,黑白電影,zh-TW
 3D film,3D電影,zh-TW
 IMAX,IMAX電影,zh-TW
+Director,導演,zh-TW
+Producer,製片人,zh-TW
+Screenwriter,編劇,zh-TW
 Lead actor,主演,zh-TW
 Supporting actor,配角,zh-TW
 Cameo,客串,zh-TW
 Extra,臨時演員,zh-TW
 Stunt double,替身演員,zh-TW
 Cinematographer,攝影師,zh-TW
+Editor,剪輯師,zh-TW
 Sound designer,音效設計師,zh-TW
+Composer,作曲家,zh-TW
 Art director,美術指導,zh-TW
 Costume designer,服裝設計師,zh-TW
+Makeup artist,化妝師,zh-TW
 Set designer,佈景設計師,zh-TW
 Location manager,外景經理,zh-TW
 Casting director,選角導演,zh-TW
@@ -31,6 +38,8 @@ Boom operator,錄音師,zh-TW
 Props master,道具師,zh-TW
 Set decorator,佈景裝飾師,zh-TW
 Production designer,美術指導,zh-TW
+Visual effects,視覺效果,zh-TW
+Special effects,特效,zh-TW
 CGI,電腦特效,zh-TW
 Green screen,綠幕,zh-TW
 Blue screen,藍幕,zh-TW

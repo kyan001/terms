@@ -1,21 +1,15 @@
 source,target,tgt_lng
 Constitution,宪法,zh-CN
-Law,法律,zh-CN
 Regulation,法规,zh-CN
 Statute,法令,zh-CN
 Ordinance,条例,zh-CN
 Code,法典,zh-CN
 Amendment,修正案,zh-CN
-Article,条款,zh-CN
-Section,章节,zh-CN
 Clause,条款,zh-CN
 Subsection,小节,zh-CN
-Paragraph,段落,zh-CN
 Proviso,但书,zh-CN
 Schedule,附表,zh-CN
-Appendix,附录,zh-CN
 Jurisdiction,管辖权,zh-CN
-Court,法院,zh-CN
 Supreme Court,最高法院,zh-CN
 High Court,高等法院,zh-CN
 District Court,地区法院,zh-CN
@@ -23,7 +17,6 @@ Magistrate Court,治安法院,zh-CN
 Appeal Court,上诉法院,zh-CN
 Circuit Court,巡回法院,zh-CN
 Tribunal,法庭,zh-CN
-Judge,法官,zh-CN
 Justice,大法官,zh-CN
 Magistrate,治安法官,zh-CN
 Prosecutor,检察官,zh-CN
@@ -35,14 +28,12 @@ Plaintiff,原告,zh-CN
 Defendant,被告,zh-CN
 Appellant,上诉人,zh-CN
 Respondent,被上诉人,zh-CN
-Witness,证人,zh-CN
 Expert witness,证人,zh-CN
 Jury,陪审团,zh-CN
 Juror,陪审员,zh-CN
 Bailiff,法警,zh-CN
 Clerk,书记员,zh-CN
 Court reporter,法庭记录员,zh-CN
-Case,案件,zh-CN
 Civil case,民事案件,zh-CN
 Criminal case,刑事案件,zh-CN
 Administrative case,行政案件,zh-CN
@@ -54,8 +45,6 @@ Judgment,判决,zh-CN
 Order,命令,zh-CN
 Decree,法令,zh-CN
 Ruling,裁定,zh-CN
-Decision,决定,zh-CN
-Opinion,意见,zh-CN
 Dissenting opinion,异议意见,zh-CN
 Concurring opinion,附议意见,zh-CN
 Majority opinion,多数意见,zh-CN
@@ -85,8 +74,6 @@ Bankruptcy law,破产法,zh-CN
 Tax law,税法,zh-CN
 Environmental law,环境法,zh-CN
 Intellectual property law,知识产权法,zh-CN
-Contract,合同,zh-CN
-Agreement,协议,zh-CN
 Deed,契据,zh-CN
 Will,遗嘱,zh-CN
 Trust,信托,zh-CN
