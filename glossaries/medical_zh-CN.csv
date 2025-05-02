@@ -15,36 +15,12 @@ Bacteria,细菌,zh-CN
 Fungus,真菌,zh-CN
 Parasite,寄生虫,zh-CN
 Inflammation,炎症,zh-CN
-Fever,发热,zh-CN
-Pain,疼痛,zh-CN
-Swelling,肿胀,zh-CN
-Redness,发红,zh-CN
-Bleeding,出血,zh-CN
-Bruise,瘀伤,zh-CN
-Wound,伤口,zh-CN
-Scar,疤痕,zh-CN
-Rash,皮疹,zh-CN
-Cough,咳嗽,zh-CN
-Sneeze,打喷嚏,zh-CN
-Vomit,呕吐,zh-CN
-Diarrhea,腹泻,zh-CN
-Constipation,便秘,zh-CN
-Headache,头痛,zh-CN
-Dizziness,头晕,zh-CN
-Fatigue,疲劳,zh-CN
-Weakness,虚弱,zh-CN
-Nausea,恶心,zh-CN
 Chest pain,胸痛,zh-CN
 Shortness of breath,呼吸急促,zh-CN
 Heart rate,心率,zh-CN
 Blood pressure,血压,zh-CN
-Temperature,体温,zh-CN
 Pulse,脉搏,zh-CN
 Respiration,呼吸,zh-CN
-Oxygen,氧气,zh-CN
-Blood,血液,zh-CN
-Urine,尿液,zh-CN
-Stool,粪便,zh-CN
 Tissue,组织,zh-CN
 Organ,器官,zh-CN
 Muscle,肌肉,zh-CN
@@ -58,35 +34,6 @@ Liver,肝脏,zh-CN
 Kidney,肾脏,zh-CN
 Stomach,胃,zh-CN
 Intestine,肠道,zh-CN
-Skin,皮肤,zh-CN
-Eye,眼睛,zh-CN
-Ear,耳朵,zh-CN
-Nose,鼻子,zh-CN
-Mouth,口腔,zh-CN
-Throat,咽喉,zh-CN
-Teeth,牙齿,zh-CN
-Tongue,舌头,zh-CN
-Lips,嘴唇,zh-CN
-Hand,手,zh-CN
-Foot,脚,zh-CN
-Arm,手臂,zh-CN
-Leg,腿,zh-CN
-Back,背部,zh-CN
-Neck,颈部,zh-CN
-Head,头部,zh-CN
-Face,面部,zh-CN
-Chest,胸部,zh-CN
-Abdomen,腹部,zh-CN
-Hip,髋部,zh-CN
-Shoulder,肩部,zh-CN
-Elbow,肘部,zh-CN
-Wrist,手腕,zh-CN
-Knee,膝盖,zh-CN
-Ankle,脚踝,zh-CN
-Finger,手指,zh-CN
-Toe,脚趾,zh-CN
-Medicine,药物,zh-CN
-Drug,药品,zh-CN
 Antibiotic,抗生素,zh-CN
 Antiviral,抗病毒药,zh-CN
 Antifungal,抗真菌药,zh-CN
@@ -97,7 +44,6 @@ Vaccine,疫苗,zh-CN
 Injection,注射,zh-CN
 Tablet,片剂,zh-CN
 Capsule,胶囊,zh-CN
-Liquid,液体,zh-CN
 Cream,乳膏,zh-CN
 Ointment,软膏,zh-CN
 Drops,滴剂,zh-CN
@@ -112,23 +58,18 @@ Splint,夹板,zh-CN
 Cast,石膏,zh-CN
 Crutch,拐杖,zh-CN
 Wheelchair,轮椅,zh-CN
-Hospital,医院,zh-CN
-Clinic,诊所,zh-CN
 Emergency room,急诊室,zh-CN
 Operating room,手术室,zh-CN
 Intensive care unit,重症监护室,zh-CN
 Ward,病房,zh-CN
 Laboratory,实验室,zh-CN
 Pharmacy,药房,zh-CN
-Doctor,医生,zh-CN
-Nurse,护士,zh-CN
 Surgeon,外科医生,zh-CN
 Physician,内科医生,zh-CN
 Specialist,专科医生,zh-CN
 Dentist,牙医,zh-CN
 Pharmacist,药剂师,zh-CN
 Technician,技师,zh-CN
-Patient,病人,zh-CN
 Medical record,病历,zh-CN
 Test result,检查结果,zh-CN
 X-ray,X光片,zh-CN

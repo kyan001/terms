@@ -15,36 +15,12 @@ Bacteria,細菌,zh-TW
 Fungus,真菌,zh-TW
 Parasite,寄生蟲,zh-TW
 Inflammation,發炎,zh-TW
-Fever,發燒,zh-TW
-Pain,疼痛,zh-TW
-Swelling,腫脹,zh-TW
-Redness,發紅,zh-TW
-Bleeding,出血,zh-TW
-Bruise,瘀傷,zh-TW
-Wound,傷口,zh-TW
-Scar,疤痕,zh-TW
-Rash,皮疹,zh-TW
-Cough,咳嗽,zh-TW
-Sneeze,打噴嚏,zh-TW
-Vomit,嘔吐,zh-TW
-Diarrhea,腹瀉,zh-TW
-Constipation,便秘,zh-TW
-Headache,頭痛,zh-TW
-Dizziness,頭暈,zh-TW
-Fatigue,疲勞,zh-TW
-Weakness,虛弱,zh-TW
-Nausea,噁心,zh-TW
 Chest pain,胸痛,zh-TW
 Shortness of breath,呼吸急促,zh-TW
 Heart rate,心跳,zh-TW
 Blood pressure,血壓,zh-TW
-Temperature,體溫,zh-TW
 Pulse,脈搏,zh-TW
 Respiration,呼吸,zh-TW
-Oxygen,氧氣,zh-TW
-Blood,血液,zh-TW
-Urine,尿液,zh-TW
-Stool,糞便,zh-TW
 Tissue,組織,zh-TW
 Organ,器官,zh-TW
 Muscle,肌肉,zh-TW
@@ -58,35 +34,6 @@ Liver,肝臟,zh-TW
 Kidney,腎臟,zh-TW
 Stomach,胃,zh-TW
 Intestine,腸道,zh-TW
-Skin,皮膚,zh-TW
-Eye,眼睛,zh-TW
-Ear,耳朵,zh-TW
-Nose,鼻子,zh-TW
-Mouth,口腔,zh-TW
-Throat,咽喉,zh-TW
-Teeth,牙齒,zh-TW
-Tongue,舌頭,zh-TW
-Lips,嘴唇,zh-TW
-Hand,手,zh-TW
-Foot,腳,zh-TW
-Arm,手臂,zh-TW
-Leg,腿,zh-TW
-Back,背部,zh-TW
-Neck,頸部,zh-TW
-Head,頭部,zh-TW
-Face,臉部,zh-TW
-Chest,胸部,zh-TW
-Abdomen,腹部,zh-TW
-Hip,髖部,zh-TW
-Shoulder,肩部,zh-TW
-Elbow,手肘,zh-TW
-Wrist,手腕,zh-TW
-Knee,膝蓋,zh-TW
-Ankle,腳踝,zh-TW
-Finger,手指,zh-TW
-Toe,腳趾,zh-TW
-Medicine,藥物,zh-TW
-Drug,藥品,zh-TW
 Antibiotic,抗生素,zh-TW
 Antiviral,抗病毒藥,zh-TW
 Antifungal,抗真菌藥,zh-TW
@@ -97,7 +44,6 @@ Vaccine,疫苗,zh-TW
 Injection,注射,zh-TW
 Tablet,錠劑,zh-TW
 Capsule,膠囊,zh-TW
-Liquid,液體,zh-TW
 Cream,乳霜,zh-TW
 Ointment,藥膏,zh-TW
 Drops,滴劑,zh-TW
@@ -112,23 +58,18 @@ Splint,夾板,zh-TW
 Cast,石膏,zh-TW
 Crutch,拐杖,zh-TW
 Wheelchair,輪椅,zh-TW
-Hospital,醫院,zh-TW
-Clinic,診所,zh-TW
 Emergency room,急診室,zh-TW
 Operating room,手術室,zh-TW
 Intensive care unit,加護病房,zh-TW
 Ward,病房,zh-TW
 Laboratory,實驗室,zh-TW
 Pharmacy,藥局,zh-TW
-Doctor,醫師,zh-TW
-Nurse,護理師,zh-TW
 Surgeon,外科醫師,zh-TW
 Physician,內科醫師,zh-TW
 Specialist,專科醫師,zh-TW
 Dentist,牙醫師,zh-TW
 Pharmacist,藥師,zh-TW
 Technician,技術員,zh-TW
-Patient,病患,zh-TW
 Medical record,病歷,zh-TW
 Test result,檢查結果,zh-TW
 X-ray,X光片,zh-TW
