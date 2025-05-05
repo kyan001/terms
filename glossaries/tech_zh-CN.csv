@@ -1,17 +1,7 @@
 source,target,tgt_lng
 Algorithm,算法,zh-CN
 Avatar,头像,zh-CN
-# Abbreviations
-CPU,中央处理器,zh-CN
-GPU,图形处理器,zh-CN
-RAM,内存,zh-CN
-SSD,固态硬盘,zh-CN
 IP Address,IP 地址,zh-CN
-VPN,虚拟专用网络,zh-CN
-AI,人工智能,zh-CN
-UI,用户界面,zh-CN
-UX,用户体验,zh-CN
-# Phrases / Compound Terms / Jargon
 Cloud Computing,云计算,zh-CN
 Big Data,大数据,zh-CN
 Machine Learning,机器学习,zh-CN
@@ -25,8 +15,6 @@ Hard Drive,硬盘,zh-CN
 Solid State Drive,固态硬盘,zh-CN
 User Interface,用户界面,zh-CN
 User Experience,用户体验,zh-CN
-# Terms for Consistency / Specific Tech Meaning
-App,应用,zh-CN
 Firmware,固件,zh-CN
 Ethernet,以太网,zh-CN
 Database,数据库,zh-CN
