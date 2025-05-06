@@ -1,6 +1,5 @@
 source,target,tgt_lng
 Fund,基金,zh-CN
-ETF,交易所交易基金,zh-CN
 Index,指数,zh-CN
 Exchange,交易所,zh-CN
 Trading,交易,zh-CN
@@ -20,20 +19,10 @@ Audit,审计,zh-CN
 Balance sheet,资产负债表,zh-CN
 Income statement,利润表,zh-CN
 Cash flow,现金流量,zh-CN
-PE ratio,市盈率,zh-CN
-PB ratio,市净率,zh-CN
-ROE,净资产收益率,zh-CN
-ROA,总资产收益率,zh-CN
-EPS,每股收益,zh-CN
-IPO,首次公开募股,zh-CN
-M&A,并购,zh-CN
 Bankruptcy,破产,zh-CN
-Default,违约,zh-CN
 Exchange rate,汇率,zh-CN
 Inflation,通货膨胀,zh-CN
 Deflation,通货紧缩,zh-CN
-GDP,国内生产总值,zh-CN
-CPI,消费者物价指数,zh-CN
 Monetary policy,货币政策,zh-CN
 Fiscal policy,财政政策,zh-CN
 Central bank,中央银行,zh-CN

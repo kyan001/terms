@@ -1,6 +1,5 @@
 source,target,tgt_lng
 Fund,基金,zh-TW
-ETF,交易所交易基金,zh-TW
 Index,指數,zh-TW
 Exchange,交易所,zh-TW
 Trading,交易,zh-TW
@@ -20,20 +19,10 @@ Audit,審計,zh-TW
 Balance sheet,資產負債表,zh-TW
 Income statement,損益表,zh-TW
 Cash flow,現金流量,zh-TW
-PE ratio,本益比,zh-TW
-PB ratio,股價淨值比,zh-TW
-ROE,股東權益報酬率,zh-TW
-ROA,總資產報酬率,zh-TW
-EPS,每股盈餘,zh-TW
-IPO,首次公開募股,zh-TW
-M&A,併購,zh-TW
 Bankruptcy,破產,zh-TW
-Default,違約,zh-TW
 Exchange rate,匯率,zh-TW
 Inflation,通貨膨脹,zh-TW
 Deflation,通貨緊縮,zh-TW
-GDP,國內生產總值,zh-TW
-CPI,消費者物價指數,zh-TW
 Monetary policy,貨幣政策,zh-TW
 Fiscal policy,財政政策,zh-TW
 Central bank,中央銀行,zh-TW
