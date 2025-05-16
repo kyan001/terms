@@ -8,7 +8,7 @@
   "suffix":["V1.0"]
   "i18ns": {
     "zh-CN": {
-      "name": "术力口",
+      "name": "Vocaloid",
       "description": "日文到中文的Vocaloid术语库，收录部分无法翻译或翻译不准确的日语Vocaloid、P主名称、虚拟歌姬名字等Vocaloid相关术语的中文翻译。（以智谱GLM翻译为基准，其他翻译服务效果未知）"
     },
   }
