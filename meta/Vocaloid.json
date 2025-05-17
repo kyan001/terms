@@ -1,7 +1,7 @@
 {
   "id": "Vocaloid",
   "name": "Vocaloid",
-  "description": "JJapanese to Chinese Vocaloid terminology database, containing Chinese translations of some Japanese Vocaloid, producer names, virtual singer names, and other related Vocaloid terms that cannot or are not accurately translated. (Based on the translation by Zhipu GLM, the effects of other translation services are unknown.).",
+  "description": "Japanese to Chinese Vocaloid terminology database, containing Chinese translations of some Japanese Vocaloid, producer names, virtual singer names, and other related Vocaloid terms that cannot or are not accurately translated. (Based on the translation by Zhipu GLM, the effects of other translation services are unknown.).",
   "author": "人造石",
   "glossary": "Vocaloid",
   "langs": ["zh-CN"],
