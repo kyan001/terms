@@ -1,0 +1,14 @@
+{
+  "id": "stellar-blade-clothing",
+  "name": "Stellar Blade Costumes",
+  "description": "Official Chinese translations for Stellar Blade game costumes",
+  "author": "MaMihLaPiNaTaPaI0",
+  "glossary": "stellar-blade-clothing",
+  "langs": ["zh-CN"],
+  "i18ns": {
+    "zh-CN": {
+      "name": "《剑星》服装术语库",
+      "description": "包含125个游戏服装名称的中英对照翻译"
+    }
+  }
+}
