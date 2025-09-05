@@ -1,13 +1,13 @@
 {
-  "id": "hd2-glossary",
-  "name": "Helldivers 2 Terminology",
+  "id": "hd2",
+  "name": "Helldivers 2",
   "description": "Chinese translations for Helldivers 2 game terms",
   "author": "TWSFFTS_07007",
-  "glossary": "hd2-glossary",
+  "glossary": "hd2",
   "langs": ["zh-CN"],
   "i18ns": {
     "zh-CN": {
-      "name": "《绝地潜兵 2》术语库",
+      "name": "《绝地潜兵 2》",
       "description": "包含游戏内大多数专有名词的翻译。"
     }
   }

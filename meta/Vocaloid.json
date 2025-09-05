@@ -1,14 +1,14 @@
 {
   "id": "Vocaloid",
   "name": "Vocaloid",
-  "description": "Japanese to Chinese Vocaloid terminology database, containing Chinese translations of some Japanese Vocaloid, producer names, virtual singer names, and other related Vocaloid terms that cannot or are not accurately translated. (Based on the translation by Zhipu GLM, the effects of other translation services are unknown.).",
+  "description": "Japanese to Chinese Vocaloid terminology database, containing Chinese translations of some Japanese Vocaloid, producer names, virtual singer names, and other related Vocaloid terms that cannot or are not accurately translated.",
   "author": "人造石",
   "glossary": "Vocaloid",
   "langs": ["zh-CN"],
   "i18ns": {
     "zh-CN": {
       "name": "Vocaloid",
-      "description": "日文到中文的Vocaloid术语库，收录部分无法翻译或翻译不准确的日语Vocaloid、P主名称、虚拟歌姬名字等Vocaloid相关术语的中文翻译。（以智谱GLM翻译为基准，其他翻译服务效果未知）"
+      "description": "日文到中文的 Vocaloid 术语库，收录部分无法翻译或翻译不准确的日语 Vocaloid、P主名称、虚拟歌姬名字等 Vocaloid 相关术语的中文翻译。"
     }
   }
 }
