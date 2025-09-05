@@ -1,0 +1,20 @@
+{
+  "id": "access-control",
+  "name": "access-control",
+  "description": "访问控制术语库，包含与访问控制（计算机科学领域）相关的术语的中文翻译。",
+  "author": "Ziv",
+  "glossary": "access-control",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "访问控制",
+      "description": "访问控制术语库，包含与访问控制（计算机科学领域）相关的术语的中文翻译。"
+    },
+    "en": {
+      "name": "Access Control",
+      "description": "Access Control glossary, containing Chinese translations of terms related to access control (in the field of computer science)."
+    }
+  }
+}

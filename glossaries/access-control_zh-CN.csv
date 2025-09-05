@@ -1,0 +1,9 @@
+source,target,tgt_lng
+AccessControl,访问控制,zh-CN
+Authorization,授权,zh-CN
+Authentication,认证,zh-CN
+ACP,访问控制策略,zh-CN
+ACL,访问控制列表,zh-CN
+RBAC,基于角色的访问控制,zh-CN
+ABAC,基于属性的访问控制,zh-CN
+ReBAC,基于关系的访问控制,zh-CN
